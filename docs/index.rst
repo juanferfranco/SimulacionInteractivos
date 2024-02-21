@@ -26,4 +26,5 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Unidad 8: Portafolio <_unidad8/unidad8>
    Recursos: Recursos Interesantes <_recursos/recursos>
 
-`Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__.
+* `Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__.
+* `Bitácoras de los aprendices <https://classroom.github.com/classrooms/19781391-simulacion-para-sistemas-interactivos-2024-10/assignments/bitacorassimulacion2024-10>`__.
