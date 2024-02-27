@@ -27,4 +27,5 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Recursos: Recursos Interesantes <_recursos/recursos>
 
 * `Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__.
+* `Puntos semanales <https://docs.google.com/spreadsheets/d/1fm3HdR5MBrTns9FXXHlv4qYgUm_1cO9XDgD8wPnRQZY/edit?usp=sharing>`__.
 * `Bitácoras de los aprendices <https://classroom.github.com/classrooms/19781391-simulacion-para-sistemas-interactivos-2024-10/assignments/bitacorassimulacion2024-10>`__.
