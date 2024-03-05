@@ -87,6 +87,126 @@ Trayecto de actividades
   esos experimentos en tu bitácora. En el texto guía encontrarás experimentos que puedes 
   personalizar y modificar para explorara diferentes posibilidades. Captura en la bitácora 
   imágenes de esos experimentos.
+* Te propongo este experimento. Ejecuta y compara los siguientes códigos. Explica qué está 
+  pasando:
+
+  Código 1:
+
+  .. code-block:: javascript
+
+    // The Nature of Code
+    // Daniel Shiffman
+    // http://natureofcode.com
+
+    let angle = 0;
+
+    function setup() {
+      createCanvas(640, 240);
+    }
+
+    function draw() {
+      background(255);
+
+      fill(127);
+      stroke(0);
+      rectMode(CENTER);
+      translate(width / 2, height / 2);
+
+      line(-50, 0, 50, 0);
+      stroke(0);
+      strokeWeight(2);
+      fill(127);
+      circle(50, 0, 16);
+      circle(-50, 0, 16);
+      angle += 0.1;
+      rotate(angle);
+    }
+
+  Código 2:
+
+  .. code-block:: javascript
+
+    // The Nature of Code
+    // Daniel Shiffman
+    // http://natureofcode.com
+
+    let angle = 0;
+
+    function setup() {
+      createCanvas(640, 240);
+    }
+
+    function draw() {
+      background(255);
+
+      fill(127);
+      stroke(0);
+      rectMode(CENTER);
+      translate(width / 2, height / 2);
+      rotate(angle);
+      line(-50, 0, 50, 0);
+      stroke(0);
+      strokeWeight(2);
+      fill(127);
+      circle(50, 0, 16);
+      circle(-50, 0, 16);
+      angle += 0.1;
+    }
+
+* Te preguntarás ¿Cómo hago entonces para controlar de manera independiente 
+  la rotación de cada elementos de la simulación? Analiza con detenimiento 
+  este código:
+
+  .. code-block:: javascript
+
+      function draw() {
+        background(255);
+
+        attractor.display();
+
+        for (let i = 0; i < movers.length; i++) {
+          let force = attractor.attract(movers[i]);
+          movers[i].applyForce(force);
+
+          movers[i].update();
+          movers[i].show();
+        }
+      }
+
+  En cada Mover:
+
+  .. code-block:: javascript
+
+      update() {
+        this.velocity.add(this.acceleration);
+        this.position.add(this.velocity);
+        this.angleAcceleration = this.acceleration.x / 10.0;
+        this.angleVelocity += this.angleAcceleration;
+        this.angleVelocity = constrain(this.angleVelocity, -0.1, 0.1);
+        this.angle += this.angleVelocity;
+        this.acceleration.mult(0);
+      }
+
+  Y el truco está en el método que pinta cada Mover:
+
+  .. code-block:: javascript
+
+      show() {
+        strokeWeight(2);
+        stroke(0);
+        fill(127, 127);
+        rectMode(CENTER);
+        push();
+        translate(this.position.x, this.position.y);
+        rotate(this.angle);
+        circle(0, 0, this.radius * 2);
+        line(0, 0, this.radius, 0);
+        pop();
+      }
+
+  Nota la pareja ``push()`` y ``pop()``. ¿Qué hacen y por qué 
+  son importantes?
+
 
 Recursos 
 ----------------------
