@@ -47,7 +47,7 @@ WebGPU
 * `WebGPU — All of the cores, none of the canvas <https://surma.dev/things/webgpu/>`__.
 * `Get started with GPU Compute on the web <https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute>`__.
 * `How to Build a Compute Rasterizer with WebGPU <https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md>`__.
-* 
+* What WebGPU Means to XR and Metaverse by Andrey Ivashentsev. `Youtube video <https://youtu.be/5DgkmgH8zJQ?si=85q-YBk-SdnvVo-p>`__.
 
 
 Web ML
@@ -57,6 +57,19 @@ Web ML
 * `Visual Blocks for ML <https://visualblocks.withgoogle.com/>`__.
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
 * `Machine Learning for Web Developers (Web ML) <https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui&si=_YoTv7bfW9ZHvShV>`__
+* Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=QXMNW9Ujn4zfWmSi>`__.
+
+
+WebXR
+----------------
+
+* WebXR App Wonderland Engine. `Web page <https://wonderlandengine.com/>`.
+* Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=L41ws71o3eZjHiCO>`__.
+* Immersive Web. `Web page <https://immersiveweb.dev/>`__.
+* How to use WebXR with Unity - January 2024 Edition. `Youtube video <https://youtu.be/4wQG8_pb3cs?si=kOLnrpmI8R3nLDlF>`__.
+* The BEST 👑 PC Builds for VR Gaming in 2024! - Ft. Meta Quest 3. `Youtube video <https://youtu.be/DToRd_NABmA?si=8kDfv7F5TFSK8FE8>`__.
+* Top 5 WebXR Frameworks - Comparison By Jonathan Haleon November 14, 2019. `Web page <https://wonderlandengine.com/news/top-5-webxr-frameworks-comparison/>`__.
+
 
 Tools
 -------
@@ -88,6 +101,11 @@ Artistas, diseñadores, studios
 * `Tim Rodenbröker <https://timrodenbroeker.de/>`__.
 * `Thomas Latvys <https://www.instagram.com/thomaslatvys/reels/>`__.
 * `Entagma <https://entagma.com/>`__.
+* This is onformative. A studio for digital art and design. `Web page <https://onformative.com/>`__.
+* Neri Oxman. Former Associate Professor of Media Arts and Sciences. `Web page <https://www.media.mit.edu/people/neri/overview/>`__.
+* Design at the Intersection of Technology and Biology | Neri Oxman | TED Talks. 
+  `Youtube video <https://youtu.be/CVa_IZVzUoc?si=vz0pc9JbcoRAtfdD>`__.
+* Andrey Ivashentsev. `Web page <https://ivashentsev.eu/>`__.
 
 
 Libros
@@ -103,6 +121,7 @@ Libros
 * `The nature of code 2 <https://nature-of-code-2nd-edition.netlify.app/>`__.
 * `The Book of Shaders <https://thebookofshaders.com/>`__.
 * `Programming Design Systems <https://programmingdesignsystems.com/>`__.
+* Generative Design. `Book <https://drive.google.com/file/d/1C8MbPfDba0QL6VIObjdA1f9HA_euK6Bf/view?usp=sharing>`__.
 
 Math
 ------
@@ -126,6 +145,9 @@ Math
 * `The basics of Painting with Maths <https://youtu.be/0ifChJ0nJfM>`__.
 * `Painting a Landscape with Maths <https://youtu.be/BFld4EBO2RE>`__.
 * `Painting a Character with Maths <https://youtu.be/8--5LwHRhjk>`__.
+* Computational growth process. `Youtube video <https://youtu.be/9HI8FerKr6Q?si=qdDCccxgsyrkvtfs>`__.
+* Wanderers. Christoph Bader, Dominik Kolb, William Patrick, Steven Keating, Sunanda Sharma, Prof. Neri Oxman. 
+  `Web site <https://www.behance.net/gallery/21605971/Neri-Oxman-Wanderers>`__.
 
 Física
 ---------
@@ -177,6 +199,11 @@ Videos
 * `Blender Tutorial: Geometry Nodes Simulation: Advect by Curl Noise <https://youtu.be/MMwzKylfM8g>`__.
 * `Math meets artistry | Animation | Computer animation | Khan Academy <https://youtu.be/zaNUFmhD5PM>`__.
 * `Math for Game Programmers: Fast and Funky 1D Nonlinear Transformations <https://www.gdcvault.com/play/1022142/Math-for-Game-Programmers-Fast>`__.
+* Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394. 
+  `Youtube video <https://youtu.be/XbPHojL_61U?si=1jsquVEHnxpn7r67>`__.
+* Bio-Inspired Design | Neri Oxman. `Youtube video <https://youtu.be/nAA0DfAdiIU?si=PUn9X2pBdFEi6nLk>`__.
+
+
 
 Optimización
 --------------
@@ -319,6 +346,52 @@ Physical computing simulation
 * `Hyperreal simulator: JUMP <https://www.limitlessflight.com/>`__.
 * `James Jensen, uno de los creadores de The void <https://www.linkedin.com/in/jimason3d/>`__.
 * `The void <https://www.thevoid.com/>`__.
+
+Creative Coding
+--------------------
+
+* Where there is data, there is design. Unlocking the potential of generative 
+  design and creative coding. `Web page <https://www.patrik-huebner.com/>`__.
+* Creative Coding = unexplored territories | Tim Rodenbröker | TEDxUniPaderborn. 
+  `Youtube video <https://youtu.be/JW7oAbLVNJE?si=RzfjvoMckC-621P6>`__.
+* Tim Rodenbroeker site. `Web page <https://timrodenbroeker.de/>`__.
+* Creative Coding as a School of Thought. `Web page <https://timrodenbroeker.de/creative-coding-as-a-school-of-thought/>`__.
+* public class Graphic_Design implements. An investigation towards bespoke Creative 
+  Coding programming courses in graphic design education. `Web page <https://ebooks.au.dk/aul/catalog/book/340>`__.
+* What is Creative Coding? `Web page <https://timrodenbroeker.de/what-is-creative-coding/>`__.
+* A Cretive Coding Method. New stories. Future aesthetics. Generative design for brands. 
+  `Web page <https://www.patrik-huebner.com/method/>`__.
+
+
+Unity 
+-------
+
+* Introduction to the Universal Render Pipeline for advanced Unity creators. 
+  `Web site <https://unity.com/resources/introduction-universal-render-pipeline-for-advanced-unity-creators?ungated=true&elqTrackId=c5aaaadf457b42e9997e3da2d269acfa&elqaid=4611&elqat=2&utm_source=none&utm_medium=referral&isGated=false>`__.
+* Introduction to the Universal Render Pipeline for advanced Unity creators. 
+  `Book <https://github.com/juanferfranco/privateBooks/blob/main/Introduction_to_the_Universal_Render_Pipeline_for_advanced_Unity_creators_2021_LTS_edition.pdf>`__.
+* The Universal Render Pipeline Cookbook. `Book <https://github.com/juanferfranco/privateBooks/blob/main/Unity_Ebook_Universal-Render-Pipeline_Cookbook.pdf>`__.
+* Level up your programming with game programming patterns. 
+  `Web site <https://unity.com/resources/level-up-your-code-with-game-programming-patterns>`__.
+* Simplified Clean Architecture Design Pattern for Unity. 
+  `Web Page <https://genki-sano.medium.com/simplified-clean-architecture-design-pattern-for-unity-967931583c47>`__.
+* Simple Clean Architecture. `Web page <https://genki-sano.medium.com/simple-clean-architecture-762b90e58d91>`__. 
+* A quick intro to Dependency Injection: what it is, and when to use it. 
+  `Web page <https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f>`__.
+* Book Download: Dependency Injection with Unity. `Web page <https://github.com/juanferfranco/privateBooks/blob/main/DependencyInjectionWithUnity.pdf>`__.
+* This is an example project of Unity GameEngine to explain the concept of "Simple Clean Architecture".
+  `Github repo <https://github.com/genki-tx/UnitySimpleCleanArchitecture>`__.
+* Simple Clean Architecture Example for Unity without third party libraries. 
+  `Github repo <https://github.com/genki-tx/UnitySimpleCleanArchitecturePlane>`__.
+* 5 Things to Know About Reactive Programming. `Web site <https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming>`__.
+* The Reactive Manifesto. `Web site <https://www.reactivemanifesto.org/>`__.
+* Software Architecture in Unity. `Youtube video <https://youtu.be/sh7f4K9Wbj8?si=d-MzYIeq5t-uYtca>`__.
+* The Clean Code Blog. `Web page <https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html>`__.
+* Can you make SUCCESSFUL games with DIRTY CODE?  `Youtube video <https://youtu.be/9UdfZM6CQZ4?si=mglSAwUDTp1toX2h>`__.
+* Learn Unity Beginner/Intermediate 2023 (FREE COMPLETE Course - Unity Tutorial). `Youtube video <https://youtu.be/AmGSEH7QcDg?si=aWlL3gFK70CWM8Lx>`__.
+* Base defender clips. `Youtube playlist <https://youtube.com/playlist?list=PLAGy_slICtV1VjJxzr3fhwCU7hjglhNF9&si=V0DI5eiFMd0tJj1v>`__.
+* Clean Architecture en español. `Youtube playlist <https://youtube.com/playlist?list=PLAGy_slICtV12I3h1QIlKNhdMSzfGEdIc&si=OZvY_BUW3sQfgqSp>`__.
+
 
 Ejemplos
 ------------
