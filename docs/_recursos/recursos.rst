@@ -21,6 +21,9 @@ Generación procedural:
 * `Generative artistry <https://generativeartistry.com/>`__.
 * `Generative Art Guide <https://aiartists.org/generative-art-design>`__.
 * `The Procedural Animation of Gibbon: Beyond the Trees - Wolfire Games <https://youtu.be/KCKdGlpsdlo?si=sqlHs2EpPVSxkb-K>`__.
+* Nabil Mansour. `Youtube channel <https://www.youtube.com/@nabilnymansour/videos>`__.
+* FRACTAL GLIDE. `Youtube playlist <https://youtube.com/playlist?list=PL2F1Dd07Dx_3xxo50yWGAD4ncEhgKFkyH&si=FiA5WmpiE86Umcbe>`__.
+* Fractal Ray Marching in Blender (Geometry Nodes). `Youtube video <https://youtu.be/eIZ97sP6xAg?si=a61gifnwLb36blFs>`__. 
 
 WebGPU
 ----------------
@@ -48,6 +51,7 @@ WebGPU
 * `Get started with GPU Compute on the web <https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute>`__.
 * `How to Build a Compute Rasterizer with WebGPU <https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md>`__.
 * What WebGPU Means to XR and Metaverse by Andrey Ivashentsev. `Youtube video <https://youtu.be/5DgkmgH8zJQ?si=85q-YBk-SdnvVo-p>`__.
+* Generative Coding - The Nature of Code Ported to Three.js. `Web page <https://quaintitative.com/noc_port_threejs/>`__.
 
 
 Web ML
@@ -69,7 +73,7 @@ WebXR
 * How to use WebXR with Unity - January 2024 Edition. `Youtube video <https://youtu.be/4wQG8_pb3cs?si=kOLnrpmI8R3nLDlF>`__.
 * The BEST 👑 PC Builds for VR Gaming in 2024! - Ft. Meta Quest 3. `Youtube video <https://youtu.be/DToRd_NABmA?si=8kDfv7F5TFSK8FE8>`__.
 * Top 5 WebXR Frameworks - Comparison By Jonathan Haleon November 14, 2019. `Web page <https://wonderlandengine.com/news/top-5-webxr-frameworks-comparison/>`__.
-
+* State of Compute: Maximizing Performance on Meta Quest. `Youtube video <https://youtu.be/M6RKMXQbtWk?si=uv12lVXk_AI6b0za>`__.
 
 Tools
 -------
@@ -304,6 +308,7 @@ Games
 
 * `Create a 3D Multi-player Game using THREE.js and SOCKET.io <https://youtube.com/playlist?list=PLcTpn5-ROA4yXDPO4o38q9JLlJtu3EUMj&si=2_3aW3EfNsrbR0zC>`__.
 * `Making the same game in threeJS and Unity <https://youtu.be/r6ZvU2U-DB0?si=vcRnCVJ7AfqYzmxt>`__.
+* Fractal Glide. `Steam game <https://store.steampowered.com/app/2565200/Fractal_Glide/>`__. 
 
 p5.js
 ------
@@ -320,6 +325,14 @@ SDF
 -----
 
 * `I Made A Blob Shooting Game With Ray Marching <https://youtu.be/9wZL2RzBQyE?si=brmvkHPOS8Xh921a>`__.
+* Volumetrics: Introduction to ray marching | Tutorial. `Youtube video <https://youtu.be/hXYOlXVRRL8?si=o4ed1nozxv5MEvBo>`__.
+* Ray Marching, and making 3D Worlds with Math. `Youtube video <https://youtu.be/BNZtUB7yhX4?si=gNZA640rb1uWP7QY>`__.
+* Coding Adventure: Ray Marching. `Youtube video <https://youtu.be/Cp5WWtMoeKg?si=9tdKFO-Lrpf1J382>`__.
+* Ray Marching Project. `Github repo <https://github.com/SebLague/Ray-Marching>`__.
+* Distance functions. `Web page <https://iquilezles.org/articles/distfunctions/>`__.
+* Ray Marching and Signed Distance Functions. `Youtube videos <https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/#the-raymarching-algorithm>`__.
+* From Raymarching to Conemarching - Devlog 1. `Youtube video <https://youtu.be/qUBA8Xotc4o?si=_p2iRzG324WFHOCA>`__.
+
 
 Live 
 -----
