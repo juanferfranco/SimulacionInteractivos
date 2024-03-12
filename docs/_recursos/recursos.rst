@@ -52,6 +52,7 @@ WebGPU
 * `How to Build a Compute Rasterizer with WebGPU <https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md>`__.
 * What WebGPU Means to XR and Metaverse by Andrey Ivashentsev. `Youtube video <https://youtu.be/5DgkmgH8zJQ?si=85q-YBk-SdnvVo-p>`__.
 * Generative Coding - The Nature of Code Ported to Three.js. `Web page <https://quaintitative.com/noc_port_threejs/>`__.
+* WebGPU Fluid Simulation. `Web page <https://kishimisu.github.io/WebGPU-Fluid-Simulation/>`__. 
 
 
 Web ML
@@ -110,6 +111,8 @@ Artistas, diseñadores, studios
 * Design at the Intersection of Technology and Biology | Neri Oxman | TED Talks. 
   `Youtube video <https://youtu.be/CVa_IZVzUoc?si=vz0pc9JbcoRAtfdD>`__.
 * Andrey Ivashentsev. `Web page <https://ivashentsev.eu/>`__.
+* Kishimisu Creative Developer. `Web page <https://www.kishimisu.art/>`__.
+* Nabil Mansour. Cone marching project. `Web page <https://nabilmansour.com/>`__.
 
 
 Libros
@@ -332,6 +335,13 @@ SDF
 * Distance functions. `Web page <https://iquilezles.org/articles/distfunctions/>`__.
 * Ray Marching and Signed Distance Functions. `Youtube videos <https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/#the-raymarching-algorithm>`__.
 * From Raymarching to Conemarching - Devlog 1. `Youtube video <https://youtu.be/qUBA8Xotc4o?si=_p2iRzG324WFHOCA>`__.
+* 3D Audio Visualizer. `Web page <https://www.shadertoy.com/view/dtl3Dr#>`__.
+* My journey into fractals. Gregory Ivanov. `Blog <https://medium.com/@bananaft/my-journey-into-fractals-d25ebc6c4dc2>`__.
+* Syntopia. Generative Art, 3D Fractals, Creative Computing. `Web page <http://blog.hvidtfeldts.net/index.php/2011/09/distance-estimated-3d-fractals-v-the-mandelbulb-different-de-approximations/>`__.
+* Cone marching. Seven/Fulcrum. `pdf <https://www.fulcrum-demo.org/wp-content/uploads/2012/04/Cone_Marching_Mandelbox_by_Seven_Fulcrum_LongVersion.pdf>`__.
+* Ray Marching for Dummies. `Youtube video <https://youtu.be/PGtv-dBi2wE?si=U1XFie0CjJsWb0gH>`__.
+* Ray Marching Simple Shapes. `Youtube video <https://youtu.be/Ff0jJyyiVyw?si=t5PPARqU-9s9ZPMF>`__.
+* Ray Marching playlist. `Youtube playlist <https://youtube.com/playlist?list=PLGmrMu-IwbgtMxMiV3x4IrHPlPmg7FD-P&si=iy-NCP4PLF73oMvZ>`__.
 
 
 Live 
