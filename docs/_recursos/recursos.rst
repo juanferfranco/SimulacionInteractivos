@@ -312,6 +312,13 @@ Games
 * `Create a 3D Multi-player Game using THREE.js and SOCKET.io <https://youtube.com/playlist?list=PLcTpn5-ROA4yXDPO4o38q9JLlJtu3EUMj&si=2_3aW3EfNsrbR0zC>`__.
 * `Making the same game in threeJS and Unity <https://youtu.be/r6ZvU2U-DB0?si=vcRnCVJ7AfqYzmxt>`__.
 * Fractal Glide. `Steam game <https://store.steampowered.com/app/2565200/Fractal_Glide/>`__. 
+* Noita. `Steam game <https://store.steampowered.com/app/881100/Noita/>`__.
+* Exploring the Tech and Design of Noita. `Youtube video <https://youtu.be/prXuyMCgbTc?si=CTGFQoYsl2DtUeQh>`__.
+* Recreating Noita's Sand Simulation in C and OpenGL | Game Engineering. 
+  `Youtube video <https://youtu.be/VLZjd_Y1gJ8?si=0K6JS85Ijj_FXSfS>`__.
+* sandspiel. Game with pixels. `Youtube video <https://sandspiel.club/>`__.
+* Making a falling sand simulator. `Youtube video <https://jason.today/falling-sand>`__.
+
 
 p5.js
 ------
