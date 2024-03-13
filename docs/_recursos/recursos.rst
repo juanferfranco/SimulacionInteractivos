@@ -53,7 +53,8 @@ WebGPU
 * What WebGPU Means to XR and Metaverse by Andrey Ivashentsev. `Youtube video <https://youtu.be/5DgkmgH8zJQ?si=85q-YBk-SdnvVo-p>`__.
 * Generative Coding - The Nature of Code Ported to Three.js. `Web page <https://quaintitative.com/noc_port_threejs/>`__.
 * WebGPU Fluid Simulation. `Web page <https://kishimisu.github.io/WebGPU-Fluid-Simulation/>`__. 
-
+* WebGPU Fundamentals. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
+* WebGPU Compute Shader Basics. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__. 
 
 Web ML
 ----------------
@@ -90,6 +91,7 @@ Cursos
 
 * Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
 * `Get started making music <https://learningmusic.ableton.com/>`__.
+* 3D Computer Graphics Programming. `Course <https://pikuma.com/courses/learn-3d-computer-graphics-programming>`__.
 
 Artistas, diseñadores, studios
 -------------------------------
@@ -129,6 +131,7 @@ Libros
 * `The Book of Shaders <https://thebookofshaders.com/>`__.
 * `Programming Design Systems <https://programmingdesignsystems.com/>`__.
 * Generative Design. `Book <https://drive.google.com/file/d/1C8MbPfDba0QL6VIObjdA1f9HA_euK6Bf/view?usp=sharing>`__.
+* SDL Game Development. `Book <https://github.com/juanferfranco/privateBooks/blob/main/Shaun%20Mitchell%20-%20SDL%20Game%20Development-Packt%20Publishing%20(2013).pdf>`__.
 
 Math
 ------
