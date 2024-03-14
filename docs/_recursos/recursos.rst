@@ -319,8 +319,8 @@ Games
 * Exploring the Tech and Design of Noita. `Youtube video <https://youtu.be/prXuyMCgbTc?si=CTGFQoYsl2DtUeQh>`__.
 * Recreating Noita's Sand Simulation in C and OpenGL | Game Engineering. 
   `Youtube video <https://youtu.be/VLZjd_Y1gJ8?si=0K6JS85Ijj_FXSfS>`__.
-* sandspiel. Game with pixels. `Youtube video <https://sandspiel.club/>`__.
-* Making a falling sand simulator. `Youtube video <https://jason.today/falling-sand>`__.
+* sandspiel. Game with pixels. `Web site <https://sandspiel.club/>`__.
+* Making a falling sand simulator. `Web site <https://jason.today/falling-sand>`__.
 
 
 p5.js
