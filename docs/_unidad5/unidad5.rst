@@ -1,43 +1,40 @@
 Unidad 5. Sistemas de partículas
 =======================================
 
-..
-  Evaluación
-  -----------
+Requisitos de la aplicación interactiva
+--------------------------------------------
 
-  La idea de esta evaluación es que EVOLUCIONES tu proyecto de las unidades 
-  anteriores adicionando partículas (con el sistema de partículas del motor), 
-  le hagas ``cariños`` a la aplicación e incluso pienses en escribir la explicación 
-  en el README.md en inglés. La idea es ir conformando un producto para tu 
-  portafolio. Vale la pena el esfuerzo. NO ES POR LA NOTA, es por el PORTAFOLIO que 
-  te ayudará a conseguir trabajo.
+Vas a enriquecer tu simulación con partículas incluyendo de manera cohesiva 
+y basado en una narrativa los siguientes elementos: 
 
-  Características de la simulación
-  **********************************
+#. Un sistema de emisores de partículas sujetos a fuerzas externas.
+#. Crea un arreglo con diferentes sistemas de partículas que serán 
+   administradas de la misma manera independientemente del tipo de clase 
+   al que pertenezcan, es decir, vas a implementar los conceptos de herencia 
+   y polimorfismo.
+#. Un sistema de partículas con repelentes.
+#. Crea un sistema de partículas TEXTURIZADO, pero la textura la debes crear 
+   de manera procedural.
+#. Debes adicionar interactividad a tu aplicación. Puede ser mediante teclado, 
+   mouse, música, el micrófono, video, sensor o cualquier otro dispositivo 
+   de entrada.
+#. Debes desarrollar tu aplicación bajo control de versión. Usa el directorio 
+   correspondiente de cada unidad.
 
-  * Vas a añadir efectos a tu proyecto utilizando PARTÍCULAS, pero 
-    con CPU no con GPU, es decir, sin shaders. La idea es que practiques con 
-    el sistema de partículas del motor.
-  * No olvides la interactividad con mouse y teclado y opcionalmente con 
-    cualquier otro método de entrada que quieras añadir a los dos anteriores.
-  * Verifica que entre todos los efectos que le pongas a tu aplicación se puedan 
-    ver los siguientes elementos:
+Trayecto de actividades
+------------------------
 
-    * Trails.
-    * Ruido en el sistema de partícula (usando el módulo).
-    * Fuerza de gravedad y rotación al sistema de partículas.
-    * Colisiones con las partículas.
-    * Repellers y campos de fuerza afectando el sistema de partículas.
+* Realiza la lectura de la unidad 4 del texto guía: partículas.
+* Ve haciendo experimentos pequeños con cada concepto que encuentras. Reporta y analiza 
+  esos experimentos en tu bitácora. En el texto guía encontrarás experimentos que puedes 
+  personalizar y modificar para explorara diferentes posibilidades. Captura en la bitácora 
+  imágenes de esos experimentos.
+* Conversa con la bitácora, dile lo que entendiste del código que observas, dile 
+  que quieres hacer un experimento nuevo y la razón para hacerlo, dile tus dudas y 
+  las conclusiones que sacas de los experimentos. Mira, la bitácora es una herramienta 
+  de pensamiento que te permite y desarrollando de manera ACTIVA la lectura del material.
 
-  .. note:: NO OLVIDES
+Recursos 
+----------------------
 
-      Tienes ejemplos de todo lo que te pido en el texto guía.
-
-  Recursos 
-  ----------------------
-
-  * `Capítulo 4 <https://natureofcodeunity.com/chapterfour.html>`__ del texto guía.
-  * `Videos 32 al 37 <https://youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM>`__ 
-    del curso the nature of code 2.
-  * `Cómo hacer EFECTOS de PARTÍCULAS en Unity | Tutorial VFX <https://youtu.be/4ZffPhom758>`__.
-
+* `Capítulo 4 <https://natureofcode.com/particles/>`__ del texto guía.
