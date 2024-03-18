@@ -24,6 +24,8 @@ Generación procedural:
 * Nabil Mansour. `Youtube channel <https://www.youtube.com/@nabilnymansour/videos>`__.
 * FRACTAL GLIDE. `Youtube playlist <https://youtube.com/playlist?list=PL2F1Dd07Dx_3xxo50yWGAD4ncEhgKFkyH&si=FiA5WmpiE86Umcbe>`__.
 * Fractal Ray Marching in Blender (Geometry Nodes). `Youtube video <https://youtu.be/eIZ97sP6xAg?si=a61gifnwLb36blFs>`__. 
+* Real-time diffusion in TouchDesigner - StreamdiffusionTD Setup + Install + Settings. 
+  `Youtube video tutorial <https://youtu.be/X4rlC6y1ahw?si=LMCEYYQwRyuPgjXx>`__.
 
 WebGPU
 ----------------
@@ -69,13 +71,20 @@ Web ML
 WebXR
 ----------------
 
-* WebXR App Wonderland Engine. `Web page <https://wonderlandengine.com/>`.
+* WebXR App Wonderland Engine. `Web page <https://wonderlandengine.com/>`__.
 * Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=L41ws71o3eZjHiCO>`__.
 * Immersive Web. `Web page <https://immersiveweb.dev/>`__.
 * How to use WebXR with Unity - January 2024 Edition. `Youtube video <https://youtu.be/4wQG8_pb3cs?si=kOLnrpmI8R3nLDlF>`__.
 * The BEST 👑 PC Builds for VR Gaming in 2024! - Ft. Meta Quest 3. `Youtube video <https://youtu.be/DToRd_NABmA?si=8kDfv7F5TFSK8FE8>`__.
 * Top 5 WebXR Frameworks - Comparison By Jonathan Haleon November 14, 2019. `Web page <https://wonderlandengine.com/news/top-5-webxr-frameworks-comparison/>`__.
 * State of Compute: Maximizing Performance on Meta Quest. `Youtube video <https://youtu.be/M6RKMXQbtWk?si=uv12lVXk_AI6b0za>`__.
+* Reality Accelerator Toolkit. `Github repo <https://github.com/meta-quest/reality-accelerator-toolkit>`__. 
+* Spatial Web Template. `Github repo <https://github.com/meta-quest/spatial-web-template>`__.
+* Immersive Web Emulator. `Github repo <https://github.com/meta-quest/immersive-web-emulator>`__.
+* Project Flowerbed. An immersive WebXR gardening experience written on top of THREE.JS.
+  `Github repo <https://github.com/meta-quest/ProjectFlowerbed>`__.
+* Learn to Create WebXR, VR and AR, Experiences with Three.JS. 
+  `Youtube playlist <https://youtube.com/playlist?list=PLFky-gauhF45UADAbdYMla_Gl4uz9O-Lh&si=EXMudEXeimJvVAPo>`__.
 
 Tools
 -------
@@ -115,6 +124,10 @@ Artistas, diseñadores, studios
 * Andrey Ivashentsev. `Web page <https://ivashentsev.eu/>`__.
 * Kishimisu Creative Developer. `Web page <https://www.kishimisu.art/>`__.
 * Nabil Mansour. Cone marching project. `Web page <https://nabilmansour.com/>`__.
+* Bileam Tschepe. I'm Bileam aka elekktronaut, a Berlin based artist and educator creating 
+  audio-reactive, interactive and organic digital artworks, systems and installations with 
+  TouchDesigner and artificial intelligence, collaborating with and teaching people worldwide.
+  `Web site <https://www.elekktronaut.com/about>`__.
 
 
 Libros
@@ -274,6 +287,7 @@ Video references
 * `AI Manifest: The Most Beautiful Space Visualization on the Internet <https://youtu.be/zqXohGL36cw?si=5k6KLXT6geexFi3S>`__.
 * `Particle tests (15) 3D Music Visualizer <https://youtu.be/fpViZkhpPHk?si=7dCooKMfRzl7reoq>`__.
 * `JAMES JAMERSON /// Ain't No Mountain High Enough <https://youtu.be/kAT3aVj-A_E?si=T2LAuhCQmWc7EKDF>`__.
+* Tool - Vicarious Documentary (2007). `Youtube video <https://youtu.be/lf0NaJDGMkQ?si=9vRNGhQ49PxeTtq6>`__.
 
 Audio
 -------
@@ -301,6 +315,8 @@ Papers
 --------
 
 * `Advanced Character Physics <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/Jakobsen.pdf>`__. Thomas Jakobsen.
+* StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation. 
+  `Web site <https://arxiv.org/abs/2312.12491>`__.
 
 Data Viz 
 ---------
