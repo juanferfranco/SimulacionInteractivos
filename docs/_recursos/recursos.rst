@@ -124,10 +124,11 @@ Artistas, diseñadores, studios
 * Andrey Ivashentsev. `Web page <https://ivashentsev.eu/>`__.
 * Kishimisu Creative Developer. `Web page <https://www.kishimisu.art/>`__.
 * Nabil Mansour. Cone marching project. `Web page <https://nabilmansour.com/>`__.
-* Bileam Tschepe. I'm Bileam aka elekktronaut, a Berlin based artist and educator creating 
+* Bileam Tschepe. Berlin based artist and educator creating 
   audio-reactive, interactive and organic digital artworks, systems and installations with 
   TouchDesigner and artificial intelligence, collaborating with and teaching people worldwide.
   `Web site <https://www.elekktronaut.com/about>`__.
+* Robert Hodgin. He is a co-creator of the Cinder C++ framework. `Web page <https://roberthodgin.com/>`__.
 
 
 Libros
