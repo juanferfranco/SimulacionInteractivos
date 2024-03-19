@@ -101,6 +101,8 @@ Cursos
 * Blender: `geometry nodes from scratch <https://studio.blender.org/training/geometry-nodes-from-scratch/>`__.
 * `Get started making music <https://learningmusic.ableton.com/>`__.
 * 3D Computer Graphics Programming. `Course <https://pikuma.com/courses/learn-3d-computer-graphics-programming>`__.
+* p5.js shaders. `Web site <https://itp-xstory.github.io/p5js-shaders/#/>`__.
+
 
 Artistas, diseñadores, studios
 -------------------------------
@@ -130,6 +132,7 @@ Artistas, diseñadores, studios
   `Web site <https://www.elekktronaut.com/about>`__.
 * Robert Hodgin. He is a co-creator of the Cinder C++ framework. `Web page <https://roberthodgin.com/>`__.
 * Sila Sveta. `Web site <https://sila-sveta-dc774e.webflow.io/>`__.
+* Steve's makerspace. With lot of resources. `Web Page <https://stevesmakerspace.com/resources/>`__.
 
 Libros
 --------
