@@ -129,7 +129,7 @@ Artistas, diseñadores, studios
   TouchDesigner and artificial intelligence, collaborating with and teaching people worldwide.
   `Web site <https://www.elekktronaut.com/about>`__.
 * Robert Hodgin. He is a co-creator of the Cinder C++ framework. `Web page <https://roberthodgin.com/>`__.
-
+* Sila Sveta. `Web site <https://sila-sveta-dc774e.webflow.io/>`__.
 
 Libros
 --------
