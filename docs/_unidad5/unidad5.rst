@@ -38,3 +38,5 @@ Recursos
 ----------------------
 
 * `Capítulo 4 <https://natureofcode.com/particles/>`__ del texto guía.
+* ¿Cómo puedo crear una textura en p5.js? ver 
+  `este <https://youtu.be/pNDc8KXWp9E?si=hXzBuujXZk31vLeo>`__ recurso.
