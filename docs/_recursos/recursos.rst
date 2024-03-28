@@ -102,7 +102,9 @@ Cursos
 * `Get started making music <https://learningmusic.ableton.com/>`__.
 * 3D Computer Graphics Programming. `Course <https://pikuma.com/courses/learn-3d-computer-graphics-programming>`__.
 * p5.js shaders. `Web site <https://itp-xstory.github.io/p5js-shaders/#/>`__.
-
+* Chris courses. `Web site <https://chriscourses.com/courses>`__.
+* HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro. `YouTube playlist <https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&si=OdLxkmhE_2jUTr8g>`__.
+* JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
 
 Artistas, diseñadores, studios
 -------------------------------
@@ -133,6 +135,8 @@ Artistas, diseñadores, studios
 * Robert Hodgin. He is a co-creator of the Cinder C++ framework. `Web page <https://roberthodgin.com/>`__.
 * Sila Sveta. `Web site <https://sila-sveta-dc774e.webflow.io/>`__.
 * Steve's makerspace. With lot of resources. `Web Page <https://stevesmakerspace.com/resources/>`__.
+* Brand new school. `Web site <https://www.brandnewschool.com/>`__. 
+
 
 Libros
 --------
@@ -309,6 +313,7 @@ StoryTelling
 * `2015 Word as Image Highlights <https://youtu.be/qkrlKXyLWYI?si=RfsZtv1n2dYEDxYG>`__.
 * `Word As Image for Semantic Typography <https://wordasimage.github.io/Word-As-Image-Page/>`__.
 * `DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion <https://ds-fusion.github.io/>`__.
+* How to talk to white kids about racism. `Web site <https://howtotalktowhitekidsaboutracism.com/>`__. 
 
 Thrends 
 --------
