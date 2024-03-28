@@ -105,6 +105,8 @@ Cursos
 * Chris courses. `Web site <https://chriscourses.com/courses>`__.
 * HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro. `YouTube playlist <https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&si=OdLxkmhE_2jUTr8g>`__.
 * JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
+* Design for Developers. `Web site <https://www.enhanceui.com/>`__.
+
 
 Artistas, diseñadores, studios
 -------------------------------
@@ -319,6 +321,7 @@ Thrends
 --------
 
 * `Motion Graphics Trends [2023] <https://www.youtube.com/watch?v=W2ib79OoK2k>`__.
+* Top 2024 Web Design Trends. `YouTube video <https://youtu.be/qthkkHPNAYQ?si=4C-6K2WhgPcdGYML>`__.
 
 Papers
 --------
@@ -453,6 +456,12 @@ Unity
   to know about post processing. `Youtube video <https://youtu.be/yQMywArQfyY?si=UyeLmwPXSeESlHJw>`__.
 * Level_up_your_code_with_Game_Programming_Pattern. `Ebook de Unity <https://github.com/juanferfranco/privateBooks/blob/main/Level_up_your_code_with_Game_Programming_Pattern.pdf>`__.
 * Game Programming Patterns Tutorials. `Youtube playlist <https://youtube.com/playlist?list=PLX2vGYjWbI0TmDVbWNA56NbKKUgyUAQ9i&si=Pii036YQwnc_tk7H>`__.
+
+Web libraries 
+---------------
+
+* Animation. GREENSOCK. `Web site <https://gsap.com/>`__.
+* threejs. `Web site <https://threejs.org/>`__.
 
 
 Ejemplos
