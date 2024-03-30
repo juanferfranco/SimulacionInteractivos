@@ -463,6 +463,11 @@ Web libraries
 * Animation. GREENSOCK. `Web site <https://gsap.com/>`__.
 * threejs. `Web site <https://threejs.org/>`__.
 
+Design 
+--------
+
+* Resilient Web Design by Jeremy Keith. `Web site <https://resilientwebdesign.com/>`__. 
+* Design for developers by Mmdn Curriculum. `Web site <https://developer.mozilla.org/en-US/curriculum/core/design-for-developers/>`__. 
 
 Ejemplos
 ------------
