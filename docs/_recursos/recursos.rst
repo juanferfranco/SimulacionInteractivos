@@ -1,7 +1,7 @@
 Recursos. Solo para los más curiosos
 =======================================
 
-Generación procedural:
+Generación procedural
 ---------------------------
 
 * Sebastian Lague `Procedural Terrain Generation <https://youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3>`__.
@@ -467,7 +467,13 @@ Design
 --------
 
 * Resilient Web Design by Jeremy Keith. `Web site <https://resilientwebdesign.com/>`__. 
-* Design for developers by Mmdn Curriculum. `Web site <https://developer.mozilla.org/en-US/curriculum/core/design-for-developers/>`__. 
+* Design for developers by Mmdn Curriculum. `Web site <https://developer.mozilla.org/en-US/curriculum/core/design-for-developers/>`__.
+
+Immersive web experiences
+---------------------------
+
+* Become a Three.js developer. Course. `Web site <https://threejs-journey.com/>`__.
+
 
 Ejemplos
 ------------
