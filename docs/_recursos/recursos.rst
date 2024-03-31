@@ -73,7 +73,7 @@ WebXR
 
 * WebXR App Wonderland Engine. `Web page <https://wonderlandengine.com/>`__.
 * Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=L41ws71o3eZjHiCO>`__.
-* Immersive Web. `Web page <https://immersiveweb.dev/>`__.
+* WebXR API. Immersive Web. `Web page <https://immersiveweb.dev/>`__.
 * How to use WebXR with Unity - January 2024 Edition. `Youtube video <https://youtu.be/4wQG8_pb3cs?si=kOLnrpmI8R3nLDlF>`__.
 * The BEST 👑 PC Builds for VR Gaming in 2024! - Ft. Meta Quest 3. `Youtube video <https://youtu.be/DToRd_NABmA?si=8kDfv7F5TFSK8FE8>`__.
 * Top 5 WebXR Frameworks - Comparison By Jonathan Haleon November 14, 2019. `Web page <https://wonderlandengine.com/news/top-5-webxr-frameworks-comparison/>`__.
@@ -85,6 +85,8 @@ WebXR
   `Github repo <https://github.com/meta-quest/ProjectFlowerbed>`__.
 * Learn to Create WebXR, VR and AR, Experiences with Three.JS. 
   `Youtube playlist <https://youtube.com/playlist?list=PLFky-gauhF45UADAbdYMla_Gl4uz9O-Lh&si=EXMudEXeimJvVAPo>`__.
+* Rendering immersive web experiences with Three.JS and WebXR. `Web site <https://medium.com/@darktears/https-medium-com-darktears-rendering-immersive-web-experiences-with-three-js-and-webxr-8de7e06982d9>`__.
+
 
 Tools
 -------
@@ -276,7 +278,10 @@ Portafolios
 * `Guillaume Reygner <https://guillaumereygner.fr/>`__. 
 * `dan abramov <https://danabra.mov/>`__.
 * `Edan Kwan <https://edankwan.com/>`__.
-
+* David Hckh. `Web site <https://www.david-hckh.com/>`__.
+* Johan Digital. `Web site <https://www.johandigital.com/>`__.
+* 9 Imaginative Web Designer Portfolio Examples to Inspire Your Own. `Web site <https://www.vev.design/blog/web-designer-portfolio-examples/>`__.
+  
 
 Video references
 -----------------
@@ -473,6 +478,9 @@ Immersive web experiences
 ---------------------------
 
 * Become a Three.js developer. Course. `Web site <https://threejs-journey.com/>`__.
+* What Are Interactive Websites? `Web site <https://www.vev.design/interactive-websites/>`__.
+* 10 Striking 3D Website Examples (and How They’re Made). `Web site <https://www.vev.design/blog/3d-website-examples/>`__.
+* 
 
 
 Ejemplos
