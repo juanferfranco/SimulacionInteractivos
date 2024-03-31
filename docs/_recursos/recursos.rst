@@ -86,7 +86,7 @@ WebXR
 * Learn to Create WebXR, VR and AR, Experiences with Three.JS. 
   `Youtube playlist <https://youtube.com/playlist?list=PLFky-gauhF45UADAbdYMla_Gl4uz9O-Lh&si=EXMudEXeimJvVAPo>`__.
 * Rendering immersive web experiences with Three.JS and WebXR. `Web site <https://medium.com/@darktears/https-medium-com-darktears-rendering-immersive-web-experiences-with-three-js-and-webxr-8de7e06982d9>`__.
-
+* Spatial Fusion. Mixed rality experience. https://spatialfusion.io/
 
 Tools
 -------
