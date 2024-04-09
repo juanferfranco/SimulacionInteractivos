@@ -16,7 +16,7 @@ Reynolds, C. W. (1999) Steering Behaviors For Autonomous Characters, in the
 proceedings of Game Developers Conference 1999 held in San Jose, California. 
 Miller Freeman Game Group, San Francisco, California. Pages 763-782. El paper 
 lo puedes descargar 
-`aquí <https://github.com/juanferfranco/BookCodeSimCourse/files/11272755/gdc99steer.pdf>`__.
+`aquí <https://github.com/juanferfranco/SimulacionInteractivos/blob/main/docs/_static/gdc99steer.pdf>`__.
 
 Reynolds describe el movimiento de los vehículos idealizados (agentes autónomos 
 idealizados) como una serie de tres capas. En la simulación solo implementarás dos 
