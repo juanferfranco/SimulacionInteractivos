@@ -120,7 +120,7 @@ Artistas, diseñadores, studios
 * `Bruno Imbrizi <https://www.brunoimbrizi.com/about>`__.
 * `Matt deslauriers <https://www.mattdesl.com/>`__.
 * `Yi-Wen Lin (Wen) <https://yiwenl.github.io/>`__.
-* `Patrik Hübner <https://www.patrik-huebner.com/>`__.
+* Patrik Hübner. Generative design `web site <https://www.patrik-huebner.com/>`__.
 * `nowhere2run <https://www.nowhere2runproductions.com/>`__.
 * `Tim Rodenbröker <https://timrodenbroeker.de/>`__.
 * `Thomas Latvys <https://www.instagram.com/thomaslatvys/reels/>`__.
@@ -140,6 +140,7 @@ Artistas, diseñadores, studios
 * Sila Sveta. `Web site <https://sila-sveta-dc774e.webflow.io/>`__.
 * Steve's makerspace. With lot of resources. `Web Page <https://stevesmakerspace.com/resources/>`__.
 * Brand new school. `Web site <https://www.brandnewschool.com/>`__. 
+* I'm Joshua, an Interaction Designer. `Web site <https://www.joshuas.world/index.html>`__.
 
 
 Libros
