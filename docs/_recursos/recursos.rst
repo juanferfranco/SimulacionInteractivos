@@ -490,6 +490,13 @@ Interactive Web experiences
 * Visualizing Music with p5.js. `Web site <https://therewasaguy.github.io/p5-music-viz/>`.
 * Cursos de cables.gl. `Youtube channel <https://www.youtube.com/@Decode_gl/videos>`__.
 
+Blender 
+-----------
+
+* Math x Blender = POWER! `Youtube tutorial <https://youtu.be/vTJWByS3Pi4?si=wxwtcPbT58xNEdeE>`__. 
+* How to Simulate a 100.000+ Fish Swarm in Blender! `Youtube tutorial <https://youtu.be/bpyilKAY2fM?si=S7bh4-UiaP5nN84g>`__.
+* Geometry Nodes Tutorials. `Youtube playlist <https://youtube.com/playlist?list=PLmRFYLlxqAdPQi6UeINnr-VXOscRrgGI4&si=3t3hcSIgYWxDDnin>`__.
+
 Ejemplos
 ------------
 
