@@ -649,6 +649,17 @@ Te dejo una parte del código para que veas que no está compleja la cosa.
     }
 
 
+Exploración arduino-Blender
+******************************
+
+Este es un experimento en construcción que busca conectar de algunas manera información del mundo físico 
+con una simulación en Blender. Aún no hay resultados, solo estoy recolectando referencias e ideas.
+
+* Arduino Basic Blender to Arduino Communication. `Youtube tutorial <https://youtu.be/qFRqy2itak0?si=woSW1l-bITG5aYri>`__.
+* Math x Blender = POWER! `Youtube tutorial <https://youtu.be/vTJWByS3Pi4?si=wxwtcPbT58xNEdeE>`__. 
+
+
+
 ¿Qué es la programación creativa?
 **********************************
 
