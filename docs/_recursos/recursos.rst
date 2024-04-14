@@ -96,6 +96,7 @@ Tools
 * `Cables <https://cables.gl/>`__.
 * `Effect House Tik Tok realidad aumentada <https://effecthouse.tiktok.com/>`__.
 * `Meta Spark ralidad aumentada <https://spark.meta.com/>`__.
+* 
 
 Cursos
 --------
@@ -108,7 +109,7 @@ Cursos
 * HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro. `YouTube playlist <https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&si=OdLxkmhE_2jUTr8g>`__.
 * JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
 * Design for Developers. `Web site <https://www.enhanceui.com/>`__.
-
+* Introduction to Cables.gl and Javascript coding. `Youtube playlist <https://youtube.com/playlist?list=PLigMhZPczouVkDLB3Ji66M3K0frprOXW5&si=TVIKrB0mJbLBAF32>`__. 
 
 Artistas, diseñadores, studios
 -------------------------------
