@@ -496,6 +496,9 @@ Blender
 * Math x Blender = POWER! `Youtube tutorial <https://youtu.be/vTJWByS3Pi4?si=wxwtcPbT58xNEdeE>`__. 
 * How to Simulate a 100.000+ Fish Swarm in Blender! `Youtube tutorial <https://youtu.be/bpyilKAY2fM?si=S7bh4-UiaP5nN84g>`__.
 * Geometry Nodes Tutorials. `Youtube playlist <https://youtube.com/playlist?list=PLmRFYLlxqAdPQi6UeINnr-VXOscRrgGI4&si=3t3hcSIgYWxDDnin>`__.
+* The Big Nodebook: A Geometry Nodes Guide. `Web site <https://mtranimationgumroad.gumroad.com/l/thebignodebook>`__.
+
+
 
 Ejemplos
 ------------
