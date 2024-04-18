@@ -489,6 +489,12 @@ Interactive Web experiences
 * Chrome music experiments. `Web site <https://musiclab.chromeexperiments.com/Experiments>`__. 
 * Visualizing Music with p5.js. `Web site <https://therewasaguy.github.io/p5-music-viz/>`.
 * Cursos de cables.gl. `Youtube channel <https://www.youtube.com/@Decode_gl/videos>`__.
+* Lights and Shadows Operators - 
+  getting started - Video Tutorial. `Youtube video <https://youtu.be/knGnukutZeM?si=mrHDX8QDS8DwUqEl>`__.
+* Mobile controlled visualization with Cables.gl. 
+  Algunos operadores están desactualizados. 
+  `Youtube tutorial <https://youtu.be/5OBQQ2KpTbU?si=YAcL-5x82CiUHFXk>`__.
+
 
 Blender 
 -----------
