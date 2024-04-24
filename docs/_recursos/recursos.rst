@@ -504,6 +504,10 @@ Blender
 * Geometry Nodes Tutorials. `Youtube playlist <https://youtube.com/playlist?list=PLmRFYLlxqAdPQi6UeINnr-VXOscRrgGI4&si=3t3hcSIgYWxDDnin>`__.
 * The Big Nodebook: A Geometry Nodes Guide. `Web site <https://mtranimationgumroad.gumroad.com/l/thebignodebook>`__.
 
+TED Talks
+----------
+
+* Lucas Rizzoto. Why I built my own time machine. `Website <https://www.ted.com/talks/lucas_rizzotto_why_i_built_my_own_time_machine>`__.   
 
 
 Ejemplos
