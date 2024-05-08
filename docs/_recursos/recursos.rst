@@ -72,6 +72,9 @@ WebXR
 ----------------
 
 * WebXR App Wonderland Engine. `Web page <https://wonderlandengine.com/>`__.
+* Mattercraft. The next generation of 3D web tooling. A brand new creative tool for building rich 3D experiences 
+  for the web, including AR, VR and WebXR. `Web site <https://zap.works/mattercraft/>`__.
+* WebXR in Mattercraft: Rapid AR/VR creation for Apple Vision Pro, Quest 3 & ML2. `Youtube video <https://youtu.be/1y40Y3wdpCY?si=4xBb4s3dzVk2vsRv>`__.
 * Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=L41ws71o3eZjHiCO>`__.
 * WebXR API. Immersive Web. `Web page <https://immersiveweb.dev/>`__.
 * How to use WebXR with Unity - January 2024 Edition. `Youtube video <https://youtu.be/4wQG8_pb3cs?si=kOLnrpmI8R3nLDlF>`__.
