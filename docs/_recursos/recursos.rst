@@ -27,6 +27,11 @@ Generación procedural
 * Real-time diffusion in TouchDesigner - StreamdiffusionTD Setup + Install + Settings. 
   `Youtube video tutorial <https://youtu.be/X4rlC6y1ahw?si=LMCEYYQwRyuPgjXx>`__.
 
+Rendering
+-------------
+
+* The Future of Rendering - Jules Urbach. `Youtube video <https://youtu.be/KlY3K2TnrAk?si=JflRiZkIfPFhon3H>`__.
+
 WebGPU
 ----------------
 
@@ -66,7 +71,18 @@ Web ML
 * `Google machine learning courses <https://ai.google/build/machine-learning>`__.
 * `Machine Learning for Web Developers (Web ML) <https://youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui&si=_YoTv7bfW9ZHvShV>`__
 * Switching from Unity to Wonderland Engine. `Youtube video <https://youtu.be/7pbMqmBMW94?si=QXMNW9Ujn4zfWmSi>`__.
-
+* Getting Started with audio classification for web using MediaPipe Solutions. 
+  `Youtube video <https://youtu.be/Lo-0q6l0btA?si=AJhzQM8aWqtbiInF>`__.
+* Getting started with pose landmark detection for web using MediaPipe Solutions.
+  `Youtube video <https://youtu.be/oaK74yozU9g?si=kgln7VbjwdrPLkya>`__.
+* Getting started with text classification for web using MediaPipe Solutions.
+  `Youtube video <https://youtu.be/0RoP4nwLO9c?si=olLXlRYV24sJjgAG>`__.
+* Getting Started with face detection for web using MediaPipe Solutions.
+  `Youtube video <https://youtu.be/3JctK0PJ_co?si=jiK7lai2Nt43LZnG>`__.
+* Getting Started with face landmark detection for web using MediaPipe Solutions
+  `Youtube video <https://youtu.be/NiK5wHce03Y?si=piOwJmYkm40J-XxE>`__.
+* Visual Blocks ML: Create AI demos faster using custom nodes for your favorite APIs.
+  `Youtube video <https://youtu.be/zeFxny7KSlY?si=1yBf8phz9ASoUL_X>`__.
 
 WebXR
 ----------------
@@ -477,6 +493,7 @@ Design
 
 * Resilient Web Design by Jeremy Keith. `Web site <https://resilientwebdesign.com/>`__. 
 * Design for developers by Mmdn Curriculum. `Web site <https://developer.mozilla.org/en-US/curriculum/core/design-for-developers/>`__.
+* The latest in Material Design Google IO 2024. `Youtube video <https://youtu.be/XQ_Hvu-s7JY?si=egpHBL57gtPTvQYg>`__.
 
 Immersive web experiences
 ---------------------------
