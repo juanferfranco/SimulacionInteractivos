@@ -530,6 +530,16 @@ TED Talks
 * Lucas Rizzoto. Why I built my own time machine. `Website <https://www.ted.com/talks/lucas_rizzotto_why_i_built_my_own_time_machine>`__.   
 * Jorge Drexler. Poetry, music and identity. `Website <https://www.ted.com/talks/jorge_drexler_poetry_music_and_identity>`__.
 
+
+Biology
+----------
+
+* Algorithmic Botany, the website of the Biological Modeling and Visualization research group in the Department 
+  of Computer Science at the University of Calgary. `Web site <http://algorithmicbotany.org/>`__.
+* The Algorithmic Beauty of Plants. `Web site and book <http://algorithmicbotany.org/papers/#abop>`__.
+  
+
+
 Ejemplos
 ------------
 
