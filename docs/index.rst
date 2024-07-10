@@ -9,12 +9,11 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    :alt: logo
    :scale: 50%
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contenido
-
 Secciones del curso
 ----------------------
+
+.. toctree::
+   :maxdepth: 1
 
    ¿De qué se trata este curso? <_intro/intro>
    Unidad 1: Aleatoriedad <_unidad1/unidad1>
