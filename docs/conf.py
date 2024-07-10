@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Simulación para Sistemas Interactivos'
-copyright = '2023-20, Juan Franco'
+copyright = '2024-20, Juan Franco'
 author = 'Juan Franco'
 
 # The short X.Y version
-version = '0.2.0'
+version = '2024-20'
 # The full version, including alpha/beta/rc tags
-release = '2023-20'
+release = '2024-20'
 
 
 # -- General configuration ---------------------------------------------------

@@ -4,49 +4,51 @@ Introducción al curso
 Carta descriptiva
 --------------------
 
-Por favor consulta la carta descriptiva en el sistema de la Universidad. Te voy a 
-mostrar aquí los puntos más importantes de ese documento.
+Por favor consulta la carta descriptiva en el sistema de la Universidad. 
+Te voy a mostrar aquí los puntos más importantes de ese documento.
 
 
 Descripción del curso
 ----------------------
 
-El objetivo de este curso es aportar al desarrollo de las competencias para la **construcción 
-de aplicaciones interactivas** que integren contenidos digitales utilizando 
-**conceptos de matemática y física** para la solución de problemas de entretenimiento 
-digital. Los conceptos que se explorarán en el curso son los comportamientos 
-aleatorios, vectores, fuerzas, oscilaciones, sistemas de partículas, componentes físicos y 
-agentes autónomos.
+El objetivo de este curso es aportar al desarrollo de las competencias para 
+la **construcción de aplicaciones interactivas** que integren contenidos 
+digitales utilizando **conceptos de matemática y física** para la solución 
+de problemas de entretenimiento digital. Los conceptos que se explorarán 
+en el curso son los comportamientos aleatorios, vectores, fuerzas, oscilaciones, 
+sistemas de partículas, componentes físicos y agentes autónomos.
 
 ¿Para qué sirve este curso?
 -----------------------------
 
 Se espera que al finalizar el curso seas capaz de construir aplicaciones 
 interactivas que integren contenidos digitales seleccionado, de manera argumentada 
-(nivel autónomo), conceptos de matemáticas y física apropiados según los requisitos del 
-problema a solucionar. 
+(nivel autónomo), conceptos de matemáticas y física apropiados según los 
+requisitos del problema a solucionar. 
 
 Resultado de aprendizaje general al que aporta el curso
 ---------------------------------------------------------
 
-Soluciono problemas de interacción mediante la integración de contenidos digitales y software 
-de acuerdo con un diseño previo, para la implementación de sistemas intermediados por el entretenimiento digital. 
-
+Soluciono problemas de interacción mediante la integración de contenidos 
+digitales y software de acuerdo con un diseño previo, para la implementación 
+de sistemas intermediados por el entretenimiento digital. 
 
 Competencia a la que aporta el curso
 *****************************************
 
-La competencia a la que aporta el curso es del ciclo profesional del programa y pertenece 
-al área de materialización de experiencias:
+La competencia a la que aporta el curso es del ciclo profesional del 
+programa y pertenece al área de materialización de experiencias:
 
-Materializa sistemas intermediados por el entretenimiento digital para resolver problemas 
-de acuerdo con requerimientos condicionados por el contexto.
+Materializa sistemas intermediados por el entretenimiento digital para 
+resolver problemas de acuerdo con requerimientos condicionados por 
+el contexto.
 
 Resultados de aprendizaje específico al que aporta el curso
 ***************************************************************
 
-Integro contenidos digitales para la elaboración de sistemas interactivos mediante herramientas, 
-métodos y lenguajes de programación de manera creativa, eficiente, efectiva y ordenada.
+Integro contenidos digitales para la elaboración de sistemas interactivos 
+mediante herramientas, métodos y lenguajes de programación de manera 
+creativa, eficiente, efectiva y ordenada.
 
 Se espera llegar al nivel AUTÓNOMO en este curso.
 
@@ -107,17 +109,19 @@ El curso está divido en 8 unidades:
 #. Unidad 7: bibliotecas de físicas.
 #. Unidad 8: portafolio.
 
-La metodología del curso es de aula invertida. En este sitio web y en Internet encontrarás el material 
-necesario para que puedas realizar el curso. Debes utilizar el tiempo de trabajo independiente para 
-continuar con el trabajo de las unidades. El trabajo en aula lo emplearás para el mismo propósito 
+La metodología del curso es de aula invertida. En este sitio web y en 
+Internet encontrarás el material necesario para que puedas realizar el curso. 
+Debes utilizar el tiempo de trabajo independiente para continuar con el 
+trabajo de las unidades. El trabajo en aula lo emplearás para el mismo propósito 
 pero tendrás el acompañamiento del profesor.
 
 .. warning:: ¿Por qué este curso no es como una clase tradicional?
 
-  Este curso está diseñado siguiendo las recomendaciones del modelo pedagógico de la 
-  UPB que puedes encontrar `aquí <https://www.upb.edu.co/es/documentos/doc-modelopedagogicoesn-lau-1464098892245.pdf>`__.
+  Este curso está diseñado siguiendo las recomendaciones del modelo pedagógico 
+  de la UPB que puedes encontrar `aquí <https://www.upb.edu.co/es/documentos/doc-modelopedagogicoesn-lau-1464098892245.pdf>`__.
   La idea es que tu aprendizaje sea ACTIVO y no centrado en la enseñanza, entonces 
-  aprenderás haciendo. El papel del docente es MEDIADOR no de transmisor del conocimiento.
+  aprenderás haciendo. El papel del docente es MEDIADOR no de transmisor del 
+  conocimiento.
 
 .. _cronograma:
 
@@ -133,140 +137,61 @@ Cronograma
 #. Unidad 7: bibliotecas de físicas. semanas 13 - 14.
 #. Unidad 8: portafolio. semanas 15 - 16.
 
-
-Evaluación sumativa
+Evaluación
 ---------------------
 
-En la evaluación siempre se tendrá en cuenta el PROCESO. Dicho proceso lo observaremos 
-en tu bitácora de aprendizaje. Allí deberás evidenciar tu proceso de investigación y 
-de apropiación de conceptos. Para conseguir un 5 en la nota final de cada unidad, 
-deberás acumular 5 puntos hasta el cierre de la unidad. Cada semana hay 
-1 punto por ganar por bitácora. La distribución de puntos por unidad queda así:
+Cada semana te estaré proponiendo actividades. Te acompañaré en este proceso 
+y lo estaré soportando de manera personalizada.
 
-#. Unidad 1: bitácora (2 puntos) + aplicación (3 puntos). 12.5% 
-#. Unidad 2: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 3: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 4: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 5: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 6: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 7: bitácora (2 puntos) + aplicación (3 puntos). 12.5%
-#. Unidad 8: portafolio semana 1 (2 puntos) + portafolio semana 2 (3 puntos). 12.5%
+Para poder realizar la evaluación, tanto formativa como sumativa, debes 
+realizar las actividades propuestas que servirán como evidencias recopiladas 
+para poder evaluar tu desempeño.
 
-.. warning:: ¿Qué pasa si no cumplo con los plazos?
+La evaluación, sea formativa o sumativa, siempre la realizaremos juntos 
+usando como insumo para la retroalimentación tu bitácora de aprendizaje.
 
-   * Nota que siempre hay puntos por la bitácora. Si no trabajas cada semana 
-     pierdes puntos. No hay puntos retroactivos. Debes recuperar en la 
-     semana las sesiones de trabajo.
-   * Si no entregas el producto de cierre de unidad debes buscar al profesor 
-     a más tardar dos días hábiles, pero deberás ajustarte a la disponibilidad 
-     del profesor. En esa reunión se establecerá la penalidad por el incumplimiento.
-     Dicha penalidad puede ir hasta perder todos los puntos del producto de cierre 
-     de unidad.
+La evaluación formativa se realizará en cada sesión de trabajo. 
+Yo estaré pasando por tu puesto de trabajo para que me muestres tus avances.
+
+La evaluación sumativa la realizaremos juntos en sesiones específicas del 
+curso. En dichas sesiones conversaremos sobre tu proceso de aprendizaje 
+y los resultados.
+
+Tendremos entonces dos momentos de evaluación sumativa para cada unidad:
+
+* Evaluación del proceso de investigación.
+* Evaluación del reto de la unidad.
+
+Cada unidad tendrá en peso del 12.5% en la nota final. Este porcentaje 
+se distribuirá equitativamente entre el proceso de investigación y el reto.
 
 Asistencia
 ---------------------
 
-* La sesión presencial es obligatoria.
-* La sesión de trabajo independiente es obligatoria.
-* Si no asistes debes enviar un correo al profesor a más tardar dos días 
-  hábiles con:
-  
-  * La razón de la falta y los soportes.
-  * En la siguiente sesión debes mostrarle al profesor tu bitácora con 
-    los resultados de la sesión que faltaste. De no hacerlo, perderás los puntos 
-    correspondientes. Si no hay más sesiones presenciales esa semana, deberás 
-    informar por correo electrónico a más tardar el viernes a las 12 del medio día.
-* La sesión de trabajo independiente la programas según tu horario; sin embargo, 
-  el resultado debe aparecer en la bitácora.
+Según el régimen discente de la Universidad en el capítulo 7, artículo 43:
 
-.. warning:: importantes
+Se entiende por asistencia la participación del estudiante en las 
+actividades académicas programadas en cada curso para cada período académico.
+El estudiante cuyas faltas de asistencia superen el 20% del total de horas y 
+actividades programadas, reprobará el curso correspondiente con una nota 
+definitiva de 0.00.
+
+.. warning:: importante
 
    * Siempre que faltes a una sesión se reportará en el sistema de la Universidad.
-   * Faltar no significa no trabajar. Tendrás que compensar.
 
 Dedicación
 -----------
 
 Este curso es de 2 créditos distribuidos en dos sesiones semanales con 
 acompañamiento del docente y una sesión de trabajo independiente. La dedicación 
-en horas es de 6 horas.
+total es de 6 horas.
 
-Rutina de trabajo en aula   
----------------------------
+Rutinas de trabajo en aula e independientes   
+---------------------------------------------
 
-Cada sesión tendrá una duración de 1 hora 40 minutos.
+Cada sesión tendrá una duración de 1 hora 40 minutos. Distribuiremos el tiempo 
+de la siguiente manera:
 
-* Micro-sesión 1 (20 minutos): apertura. Reflexión inicial.
-   * Hágalo ahora: 15 minutos para planear la sesión y retomar el trabajo previo.
-   * Aclaraciones con el profe: 5 minutos para solicitar aclaraciones de algún 
-     asunto (asuntos rápidos) que puedan impedir el desarrollo de la planeación.
-* Micro-sesión 2 (30 minutos):
-   * 25 minutos de trabajo concentrado.
-   * 5 minutos de pausa activa.
-* Micro-sesión 3 (30 minutos):
-   * 25 minutos de trabajo concentrado.
-   * 5 minutos de pausa activa.
-* Micro-sesión 4 (20 minutos): cierre. Reflexión final.
-   * Boleto de salida (15 minutos): responder ¿Se logró el propósito de la sesión? Si se 
-     logró, reportar las conclusiones de la sesión. Si no se logró reportar qué pasó. 
-   * Aclaraciones con el profe: 5 minutos para solicitar aclaraciones de algún 
-     asunto (asuntos rápidos) y verificar con el profesor el commit en el repositorio.
-
-Rutina de trabajo independiente 
----------------------------------
-
-Cada sesión tendrá una duración de 2 horas.
-
-* Micro-sesión 1 (15 minutos): apertura. Reflexión inicial.
-   * Hágalo ahora: 15 minutos para planear la sesión y retomar el trabajo previo.
-* Micro-sesión 2 (30 minutos):
-   * 25 minutos de trabajo concentrado.
-   * 5 minutos de pausa activa.
-* Micro-sesión 3 (30 minutos):
-   * 25 minutos de trabajo concentrado.
-   * 5 minutos de pausa activa.
-* Micro-sesión 4 (30 minutos):
-   * 25 minutos de trabajo concentrado.
-   * 5 minutos de pausa activa.
-* Micro-sesión 5 (15 minutos): cierre. Reflexión final.
-   * Boleto de salida (15 minutos): responder ¿Se logró el propósito de la sesión? Si se 
-     logró, reportar las conclusiones de la sesión. Si no se logró reportar qué pasó. 
-
-Manejo de la Bitácora
-------------------------
-
-En la bitácora documentarás tu trayecto de aprendizaje. Te pido que consideres los 
-siguientes aspectos:
-
-* Al planear la sesión de trabajo indica qué pregunta guía o recurso guía 
-  estarás revisando.
-* Incluye en tu bitácora referentes, información, recursos, etc, pero SIEMPRE acompaña esto 
-  con un comentario donde reflexiones acerca de ese recurso, trata de responder la pregunta 
-  ¿Qué puedo concluir acerca de este recurso?
-* CONVERSA con la bitácora, escribe tus pensamientos y si así lo deseas sentimientos.
-* Cierra tu sesión respondiendo la pregunta ¿Qué puedo concluir acerca de la pregunta guía? 
-  Mira, es posible que aún no puedas responder la pregunta y necesites trabajar más, pero 
-  si es importante que escribas y visualices qué vas pensando acerca de la pregunta.
-* No olvides SIEMPRE preguntarte ¿Por qué? ¿Qué pasa si? ¿Cómo sería si?
-
-Recursos y actividades guía 
------------------------------
-
-* Para la construcción de la aplicaciones usarás `p5.js <https://p5js.org/>`__ herramienta.
-* Para la exploración de conceptos usarás el texto `The Nature of Code 2 <https://nature-of-code-2nd-edition.netlify.app/>`__.
-* Puedes usar también el material que desees de Internet y especialmente inteligencias artificiales que 
-  generen código.
-
-Bitácora de trabajo  
---------------------
-
-`Aquí <https://classroom.github.com/a/bjPx9NdJ>`__ podrás encontrar el enlace a tu bitácora 
-personal para el curso.
-
-Puntos semanales
-------------------
-
-En `este <https://docs.google.com/spreadsheets/d/1fm3HdR5MBrTns9FXXHlv4qYgUm_1cO9XDgD8wPnRQZY/edit?usp=sharing>`__ 
-enlace puedes consultar la asignación semanal de puntos. Recuerda que tienes plazo hasta el viernes a las 12 
-del medio día todas las semanas para completar tus tres sesiones de trabajo y el resultado o producto de cierre 
-de la unidad. 
+* 1 hora 30 minutos para el trabajo en las actividades propuestas.
+* 10 minutos para la planificación de la siguiente sesión de trabajo.

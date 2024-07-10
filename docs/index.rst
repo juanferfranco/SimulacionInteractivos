@@ -3,8 +3,6 @@ Simulación para Sistemas Interactivos 2024-20
 
 Docente diseñador del curso: Juan Fernando Franco Higuita  
 
-Nombre del docente moderador: Juan Fernando Franco Higuita  
-
 Créditos y horas totales del curso: 2 créditos - 96 horas totales 
 
 .. image:: _static/logo.png
@@ -14,6 +12,9 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
 .. toctree::
    :maxdepth: 1
    :caption: Contenido
+
+Secciones del curso
+----------------------
 
    ¿De qué se trata este curso? <_intro/intro>
    Unidad 1: Aleatoriedad <_unidad1/unidad1>
@@ -26,6 +27,15 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    Unidad 8: Portafolio <_unidad8/unidad8>
    Recursos: Recursos Interesantes <_recursos/recursos>
 
-* `Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__.
-* `Puntos semanales <https://docs.google.com/spreadsheets/d/1fm3HdR5MBrTns9FXXHlv4qYgUm_1cO9XDgD8wPnRQZY/edit?usp=sharing>`__.
-* `Bitácoras de los aprendices <https://classroom.github.com/classrooms/19781391-simulacion-para-sistemas-interactivos-2024-10/assignments/bitacorassimulacion2024-10>`__.
+Mi bitácora y mis puntos
+-------------------------
+
+* `Mi bitácora de aprendizaje <https://classroom.github.com/a/b8_otzFL>`__
+* `¿Cómo van mis notas? <https://docs.google.com/spreadsheets/d/1r0yugeL_uCau2hLNOfX-_zUFJyzKl1fZd4CCn3yoqaU/edit?usp=sharing>`__
+
+Administración del curso
+-------------------------
+
+* `Notas sobre el curso <https://github.com/juanferfranco/simulacionNotes>`__
+* `Bitácoras de los aprendices <https://classroom.github.com/classrooms/19781391-simulacion-para-sistemas-interactivos-2024-20/assignments/bitacorassimulacion2024-20>`__
+* `Bitácora template <https://github.com/jfUPB/simulacion-para-sistemas-interactivos-2024-20-bitacorassimulacion2024-20-BitacorasSimulacion2024-20>`__
