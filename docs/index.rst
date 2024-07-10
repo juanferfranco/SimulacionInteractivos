@@ -10,7 +10,7 @@ Créditos y horas totales del curso: 2 créditos - 96 horas totales
    :scale: 50%
 
 Secciones del curso
-----------------------
+--------------------
 
 .. toctree::
    :maxdepth: 1

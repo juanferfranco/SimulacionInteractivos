@@ -83,6 +83,7 @@ Web ML
   `Youtube video <https://youtu.be/NiK5wHce03Y?si=piOwJmYkm40J-XxE>`__.
 * Visual Blocks ML: Create AI demos faster using custom nodes for your favorite APIs.
   `Youtube video <https://youtu.be/zeFxny7KSlY?si=1yBf8phz9ASoUL_X>`__.
+* Machine Learning for the Web class at ITP, NYU. `Github repo <https://github.com/yining1023/machine-learning-for-the-web>`__.
 
 WebXR
 ----------------
@@ -386,6 +387,8 @@ p5.js
   `Live Server <https://github.com/processing/p5.js/wiki/Local-server#vs-code-live-server>`__ de visual studio code.
 * `Tutorial <https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/>`__ de 
   depuración de aplicaciones con Microsoft Edge.
+* A NYS Computing Standard-Aligned Introductory High School Computer 
+  Science Curriculum using p5.js. `Web site <https://cs4all-icm.gitbook.io/js-intro-to-computational-media-2.0>`__.
 
 SDF 
 -----
