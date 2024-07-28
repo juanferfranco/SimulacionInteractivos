@@ -43,3 +43,19 @@ en línea que te permite explorar proyectos de programación creativa.
 Reto
 ------
 
+Ahora que ya experimentaste con los conceptos es hora de ¡CREAR! Vas a diseñar e implementar 
+una aplicación interactiva generativa que haga uso de la aleatoriedad teniendo en cuenta los 
+siguientes requisitos:
+
+* La aplicación debe ser interactiva. Puedes utilizar mouse, teclado, cámara, micrófono, comunicación 
+  serial, datos de un API de internet, entre otros.
+* Debes usar al menos tres conceptos de aleatoriedad vistos en esta unidad.
+* En tu bitácora vas a documentar tu aplicación así:
+
+    1. Describe el concepto de diseño de la aplicación y cuál es su propósito.
+    2. Describe cada concepto de aleatoriedad (recuerda, al menos 3) que utilizaste y cómo los implementaste.
+    3. Coloca un enlace a la aplicación a la aplicación final en el editor de p5.js. 
+    4. Incluye un enlace a un video en un sitio público o gif de la aplicación en funcionamiento.
+    5. Guarda en la unidad el código fuente final de la aplicación.
+
+Recuerda que la creatividad es un proceso, no te preocupes si no te sale a la primera.
