@@ -357,6 +357,9 @@ Papers
 * `Advanced Character Physics <https://github.com/juanferfranco/SimulacionInteractivos/tree/main/docs/_static/Jakobsen.pdf>`__. Thomas Jakobsen.
 * StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation. 
   `Web site <https://arxiv.org/abs/2312.12491>`__.
+* The Fractal Flame Algorithm. `pdf <https://flam3.com/flame_draves.pdf>`__. 
+  `Gihub backup <https://github.com/juanferfranco/SimulacionInteractivos/blob/main/docs/_static/flame_draves.pdf>`__
+* DyNCA: Real-Time Dynamic Texture Synthesis Using Neural Cellular Automata. `Paper website <https://dynca.github.io/>`__.
 
 Data Viz 
 ---------
