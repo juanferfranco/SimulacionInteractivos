@@ -27,6 +27,9 @@ Generación procedural
 * Real-time diffusion in TouchDesigner - StreamdiffusionTD Setup + Install + Settings. 
   `Youtube video tutorial <https://youtu.be/X4rlC6y1ahw?si=LMCEYYQwRyuPgjXx>`__.
 * A simple procedural animation technique. `Youtube video <https://youtu.be/qlfh_rv6khY?si=eMBrrvk5LyHMA7JQ>`__.
+* My Favorite Tools + Techniques for Procedural Gamedev. `Website <https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/>`__.
+
+
 
 
 Rendering
@@ -164,6 +167,7 @@ Artistas, diseñadores, studios
 * Steve's makerspace. With lot of resources. `Web Page <https://stevesmakerspace.com/resources/>`__.
 * Brand new school. `Web site <https://www.brandnewschool.com/>`__. 
 * I'm Joshua, an Interaction Designer. `Web site <https://www.joshuas.world/index.html>`__.
+* Jacek Markusiewicz. Obra: Barbarians. `Web site <https://verse.works/series/barbarians-by-jacek-markusiewicz>`__.
 
 
 Libros
@@ -360,6 +364,9 @@ Papers
 * The Fractal Flame Algorithm. `pdf <https://flam3.com/flame_draves.pdf>`__. 
   `Gihub backup <https://github.com/juanferfranco/SimulacionInteractivos/blob/main/docs/_static/flame_draves.pdf>`__
 * DyNCA: Real-Time Dynamic Texture Synthesis Using Neural Cellular Automata. `Paper website <https://dynca.github.io/>`__.
+* Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction. 
+  `Website <https://arxiv.org/pdf/2406.19108>`__.
+
 
 Data Viz 
 ---------
@@ -547,6 +554,15 @@ Biology
   of Computer Science at the University of Calgary. `Web site <http://algorithmicbotany.org/>`__.
 * The Algorithmic Beauty of Plants. `Web site and book <http://algorithmicbotany.org/papers/#abop>`__.
   
+Conferences
+------------------
+
+* Conference on Artificial Life. `Web site <https://2024.alife.org/>`__.
+
+Generative Art
+------------------
+
+* Algorithmic Art as a subset of Generative Art. `Website <https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art>`__.
 
 
 Ejemplos
@@ -793,3 +809,22 @@ to generate digital artwork that looks like a forest.
 In summary, generative content generation is a major facet of creative coding. By designing systems 
 and algorithms, creative coders can produce a vast array of unique and unpredictable artistic outputs.
 
+
+¿Qué es algorithmic art?
+**************************
+
+Información tomada de `aquí <https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art>`__.
+
+In the 1960s, pioneers like Vera Molnár and Frieder Nake began using code to create art, 
+leveraging computers, oscilloscopes, and plotter machines to produce images impossible to draw by hand. 
+Their work was grounded in rules and instructions, with computer programs generating visuals based on these 
+parameters. This marked the birth of generative art, where the "generative" aspect referred to the computer 
+program, not the artist's hand. The artist designed the rules, thus acting as the designer, with randomness 
+adding slight variations to each visual output.
+
+Algorithmic art is created by an autonomous system executing an algorithm, where the artist 
+carefully designs the boundaries of its computational space and optionally defines the influence of randomness.
+
+While collectors are typically more interested in the algorithm's outcome than the algorithm itself, there's an 
+argument that the algorithm is the true artwork, as it embodies the artist's primary effort. 
+The generated outcomes are autonomously created, beyond the artist's direct control.
