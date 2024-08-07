@@ -170,7 +170,7 @@ Artistas, diseñadores, studios
 * Jacek Markusiewicz. Obra: Barbarians. `Web site <https://verse.works/series/barbarians-by-jacek-markusiewicz>`__.
 
 
-Libros
+Books
 --------
 
 * `Basic Math for Game Development with Unity 3D <https://link.springer.com/book/10.1007/978-1-4842-5443-1#toc>`__.
@@ -185,6 +185,8 @@ Libros
 * `Programming Design Systems <https://programmingdesignsystems.com/>`__.
 * Generative Design. `Book <https://drive.google.com/file/d/1C8MbPfDba0QL6VIObjdA1f9HA_euK6Bf/view?usp=sharing>`__.
 * SDL Game Development. `Book <https://github.com/juanferfranco/privateBooks/blob/main/Shaun%20Mitchell%20-%20SDL%20Game%20Development-Packt%20Publishing%20(2013).pdf>`__.
+* Generative Design Books Worth Reading. `Website <https://interactiveimmersive.io/blog/interactive-media/generative-design-books-worth-reading/>`__.
+
 
 Math
 ------
