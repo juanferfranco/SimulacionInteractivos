@@ -168,7 +168,10 @@ Artistas, diseñadores, studios
 * Brand new school. `Web site <https://www.brandnewschool.com/>`__. 
 * I'm Joshua, an Interaction Designer. `Web site <https://www.joshuas.world/index.html>`__.
 * Jacek Markusiewicz. Obra: Barbarians. `Web site <https://verse.works/series/barbarians-by-jacek-markusiewicz>`__.
-
+* PixelLux: We create integrated designs that use light and video technologies to augment Environments. 
+  `Web site <https://www.pixel-lux.com/>`__.
+* SOSO limited. We imagine & build a better future through design & technology. 
+  `Web site <https://www.sosolimited.com/>`__.
 
 Books
 --------
@@ -310,7 +313,9 @@ Portafolios
 * David Hckh. `Web site <https://www.david-hckh.com/>`__.
 * Johan Digital. `Web site <https://www.johandigital.com/>`__.
 * 9 Imaginative Web Designer Portfolio Examples to Inspire Your Own. `Web site <https://www.vev.design/blog/web-designer-portfolio-examples/>`__.
-  
+* Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial. 
+  `Youtube video <https://youtu.be/Q7AOvWpIVHU?si=9lLanEQZYVjlu1Gw>`__.
+
 
 Video references
 -----------------
