@@ -172,6 +172,8 @@ Artistas, diseñadores, studios
   `Web site <https://www.pixel-lux.com/>`__.
 * SOSO limited. We imagine & build a better future through design & technology. 
   `Web site <https://www.sosolimited.com/>`__.
+* Artista Espen Kluge. Obra: `alternatives <https://alternatives.art/>`__. 
+  Aplicación de vectores. `Web site <https://www.espen.xyz/alternatives-100-generative-portraits>`__.
 
 Books
 --------
