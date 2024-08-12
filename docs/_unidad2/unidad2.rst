@@ -179,4 +179,45 @@ donde analices cómo se comporta un objeto en movimiento con:
 Reto
 ------
 
-Lo publicaré la próxima semana una vez termines la fase de investigación.
+Nuestro reto de programación creativa se llamará ``Mundos aleatorios y criaturas Vectoriales``.
+
+Objetivo
+*********
+
+Diseñar un pequeño mundo interactivo donde convivan al menos 3 criaturas distintas, 
+cada una con su propio comportamiento y personalidad, utilizando únicamente conceptos de vectores 
+y aleatoriedad.
+
+Requisitos
+***********
+
+1. Apariencia y Personalidad:
+
+  * Diseña 3 criaturas con apariencias diferentes.
+  * Dale a cada criatura una personalidad que se refleje en su comportamiento, utilizando variaciones 
+    en la velocidad, dirección y tipo de movimiento.
+
+2. Comportamiento y Movimiento:
+
+  * Controla el movimiento de las criaturas exclusivamente manipulando la ACELERACIÓN a través de vectores.
+  * Usa el marco motion 101. RECUERDA que ChatGPT no sabe esto, así que debes explicarle qué es.
+  * Implementa una caminata aleatoria con Lévy flight para al menos una de las criaturas, utilizando los conceptos 
+    del capítulo de aleatoriedad.
+
+3. Interactividad. Agrega interactividad a tu mundo, utilizando una o más de las siguientes opciones: 
+   
+  * Teclado/mouse: el usuario puede cambiar la dirección de una o más criaturas, crear obstáculos, o afectar la velocidad.
+  * Audio/Música: las criaturas responden a la intensidad del sonido (por ejemplo, más ruido puede aumentar la velocidad 
+    o hacer que cambien de dirección).
+
+Bitácora
+**********
+
+* Documenta cómo resolviste cada uno de los tres requisitos: apariencia y personalidad, comportamiento y movimiento, 
+  e interactividad.
+* Explica cómo utilizaste vectores y aleatoriedad en tu diseño.
+* Describe cómo implementaste el marco motion 101 en tu diseño.
+* Enlace al proyecto en el editor de p5.js.
+* Archivo scketch.js con el código fuente de tu proyecto (en la carpeta unidad 2).
+* Enlace a un video o Gif que muestre tu proyecto en acción.
+
