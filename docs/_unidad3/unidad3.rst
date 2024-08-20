@@ -24,27 +24,27 @@ Actividad 2
 
 ¿Recuerdas el marco motion 101 de la unidad anterior?
 
-  .. code-block:: javascript
+.. code-block:: javascript
 
     let mover;
 
     function setup() {
-      createCanvas(640, 240);
-      mover = new Mover();
+        createCanvas(640, 240);
+        mover = new Mover();
     }
 
     function draw() {
-      background(255);
-      mover.show();
-      mover.update();
-      mover.checkEdges();
+        background(255);
+        mover.show();
+        mover.update();
+        mover.checkEdges();
     }
 
     ...
     update() {
-      this.velocity.add(this.acceleration);
-      this.velocity.limit(this.topSpeed);
-      this.position.add(this.velocity);
+        this.velocity.add(this.acceleration);
+        this.velocity.limit(this.topSpeed);
+        this.position.add(this.velocity);
     }        
   
   En la unidad anterior tu definías la aceleración mediante 
@@ -57,7 +57,7 @@ Actividad 3
 Ahora supón que estás aplicando dos fuerzas a una criatura. Observa estos 
 fragmentos de código:
 
-  .. code-block:: javascript
+.. code-block:: javascript
 
     mover.applyForce(wind);
     mover.applyForce(gravity);
