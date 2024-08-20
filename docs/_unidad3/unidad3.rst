@@ -47,9 +47,9 @@ Actividad 2
         this.position.add(this.velocity);
     }        
   
-  En la unidad anterior tu definías la aceleración mediante 
-  algún algoritmo. Ahora la vas a calcular. ¿Qué tiene 
-  que ver esto con las leyes de movimiento de Newton?
+En la unidad anterior tu definías la aceleración mediante 
+algún algoritmo. Ahora la vas a calcular. ¿Qué tiene 
+que ver esto con las leyes de movimiento de Newton?
 
 Actividad 3
 ************
