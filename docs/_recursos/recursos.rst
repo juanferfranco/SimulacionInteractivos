@@ -191,6 +191,7 @@ Books
 * Generative Design. `Book <https://drive.google.com/file/d/1C8MbPfDba0QL6VIObjdA1f9HA_euK6Bf/view?usp=sharing>`__.
 * SDL Game Development. `Book <https://github.com/juanferfranco/privateBooks/blob/main/Shaun%20Mitchell%20-%20SDL%20Game%20Development-Packt%20Publishing%20(2013).pdf>`__.
 * Generative Design Books Worth Reading. `Website <https://interactiveimmersive.io/blog/interactive-media/generative-design-books-worth-reading/>`__.
+* WebGPU Unleashed: A Practical Tutorial. Shi Yan. `Website <https://shi-yan.github.io/webgpuunleashed/>`__.
 
 
 Math
