@@ -214,8 +214,6 @@ Math
 * `How Tool Used Math to Create Lateralus <https://youtu.be/uOHkeH2VaE0>`__.
 * `Parametric equation <https://en.wikipedia.org/wiki/Parametric_equation>`__.
 * `The basics of Painting with Maths <https://youtu.be/0ifChJ0nJfM>`__.
-* `Painting a Landscape with Maths <https://youtu.be/BFld4EBO2RE>`__.
-* `Painting a Character with Maths <https://youtu.be/8--5LwHRhjk>`__.
 * Computational growth process. `Youtube video <https://youtu.be/9HI8FerKr6Q?si=qdDCccxgsyrkvtfs>`__.
 * Wanderers. Christoph Bader, Dominik Kolb, William Patrick, Steven Keating, Sunanda Sharma, Prof. Neri Oxman. 
   `Web site <https://www.behance.net/gallery/21605971/Neri-Oxman-Wanderers>`__.
@@ -431,6 +429,18 @@ SDF
 * Ray Marching Simple Shapes. `Youtube video <https://youtu.be/Ff0jJyyiVyw?si=t5PPARqU-9s9ZPMF>`__.
 * Ray Marching playlist. `Youtube playlist <https://youtube.com/playlist?list=PLGmrMu-IwbgtMxMiV3x4IrHPlPmg7FD-P&si=iy-NCP4PLF73oMvZ>`__.
 * p5.js Ray Marching. `p5.js editor <https://editor.p5js.org/Taxen99/sketches/47CDg5-nV>`__.
+* Womp 3D, una herramienta de modelado que utiliza SDF. `Web page <https://womp.com/index>`__.
+* SDF -- The Future of 3D Modelling? `Youtube video <https://youtu.be/ls80tzmDQEM?si=Vh2JWI0s1V8Z1nMw>`__.
+* MagicaCSG is a brand new lightweight signed distance fields [SDF] editor and renderer, that allows artists to create, 
+  edit and render SDF with its simple-to-use UI. `YouTube video <https://youtu.be/Z1qj9xgqdps?si=wzyO0wQgYCD1XBSY>`__.
+* Selfie Girl. procedural, 3d, raymarching, sdf. `ShaderToy web page <https://www.shadertoy.com/view/WsSBzh>`__.
+* Selfie Girl Painting a Character with Maths. Inigo Quilez. `YouTube video <https://youtu.be/8--5LwHRhjk>`__.
+* Inigo Quilez. Painting a Landscape with Maths `Youtube video <https://youtu.be/BFld4EBO2RE>`__.
+* CLAVICULA. 3D MODELING FOR DESKTOP & VR. `Web site <https://clavicula.link/>`__.
+* Conjure is a Signed Distance Field editor for Blender. Instead of triangles, it uses Signed Distance Functions of 
+  primitive shapes together with Boolean operations to create complex objects. 
+  `Medium article web site <https://medium.com/@xclip.gioxyer/blender-conjure-sdf-modeling-addon-851d6b23b1c4>`__.
+
 
 Live 
 -----
