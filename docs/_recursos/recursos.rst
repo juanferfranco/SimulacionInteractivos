@@ -585,6 +585,15 @@ Generative Art
 * Algorithmic Art as a subset of Generative Art. `Website <https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art>`__.
 
 
+Shading languages
+--------------------
+
+* TSL. Three.js Shading Language. Idea rápida: una capa de abstracción 
+  que permita generar código GLSL o WGSL, por ejemplo. 
+  `Web site <https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language>`__.
+* TSL Textures. `Web site <https://boytchev.github.io/tsl-textures/>`__.
+
+
 Ejemplos
 ------------
 
