@@ -28,6 +28,9 @@ Generación procedural
   `Youtube video tutorial <https://youtu.be/X4rlC6y1ahw?si=LMCEYYQwRyuPgjXx>`__.
 * A simple procedural animation technique. `Youtube video <https://youtu.be/qlfh_rv6khY?si=eMBrrvk5LyHMA7JQ>`__.
 * My Favorite Tools + Techniques for Procedural Gamedev. `Website <https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/>`__.
+* Procedural modeling of cities. `Web site <https://phiresky.github.io/procedural-cities/>`__.
+* Interactive Procedural Street Modeling. 
+  `Web site <https://www.sci.utah.edu/~chengu/street_sig08/street_project.htm>`__.
 
 
 
@@ -593,6 +596,17 @@ Shading languages
   `Web site <https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language>`__.
 * TSL Textures. `Web site <https://boytchev.github.io/tsl-textures/>`__.
 
+Artifitial life
+----------------
+
+* DyNCA: Real-Time Dynamic Texture Synthesis Using Neural Cellular Automata. 
+  `Web site <https://dynca.github.io/>`__.
+* NoiseNCA: Noisy Seed Improves Spatio-Temporal Continuity of Neural 
+  Cellular Automata. `Web site <https://noisenca.github.io/>`__.
+* Computational Life: How Well-formed, Self-replicating Programs 
+  Emerge from Simple Interaction. `Web site <https://arxiv.org/abs/2406.19108>`__.
+* Cellular asciimata. Web site playgraund. 
+  `Web site <https://openprocessing.org/sketch/2326268>`__.
 
 Ejemplos
 ------------
