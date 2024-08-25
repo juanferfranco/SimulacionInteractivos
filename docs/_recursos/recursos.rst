@@ -608,6 +608,12 @@ Artifitial life
 * Cellular asciimata. Web site playgraund. 
   `Web site <https://openprocessing.org/sketch/2326268>`__.
 
+Touch designer 
+----------------
+
+* StreamDiffusionTD 0.2.0 [ Installation + Setup ]. `Youtube tutorial <https://youtu.be/F2JSWAKex4k?si=ayFiWLqgrGHksRWG>`__.
+
+
 Ejemplos
 ------------
 
