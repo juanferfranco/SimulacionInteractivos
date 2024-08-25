@@ -612,7 +612,8 @@ Touch designer
 ----------------
 
 * StreamDiffusionTD 0.2.0 [ Installation + Setup ]. `Youtube tutorial <https://youtu.be/F2JSWAKex4k?si=ayFiWLqgrGHksRWG>`__.
-* Stream Difussion `Github repo <https://github.com/cumulo-autumn/StreamDiffusion>`__.
+* Stream Difussion. `Github repo <https://github.com/cumulo-autumn/StreamDiffusion>`__.
+* StreamV2V. `Github repo <https://youtu.be/k-DmQNjXvxA?si=u7LXWd8xfU6ubHbs>`__. 
 
 Ejemplos
 ------------
