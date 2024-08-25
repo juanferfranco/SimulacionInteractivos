@@ -612,7 +612,7 @@ Touch designer
 ----------------
 
 * StreamDiffusionTD 0.2.0 [ Installation + Setup ]. `Youtube tutorial <https://youtu.be/F2JSWAKex4k?si=ayFiWLqgrGHksRWG>`__.
-
+* Stream Difussion `Github repo <https://github.com/cumulo-autumn/StreamDiffusion>`__.
 
 Ejemplos
 ------------
