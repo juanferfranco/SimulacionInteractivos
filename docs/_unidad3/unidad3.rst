@@ -133,9 +133,28 @@ En el siguiente código:
 Reto
 ------
 
-.. note:: No te aceleres
-    :) La semana que viene publico el reto. Por ahora experimenta 
-    Si llegas a este punto con tiempo de sobra, te pediré que analices 
-    los ejemplos propuestos en la sección de modeling a force de la unidad 
-    2 del libro. Ahí encontrarás ejemplos de cómo modelar fuerzas y 
-    cómo usarlas en la simulación.
+Seguimos explorando los conceptos usando criaturas. PERO considera esto. 
+Las criaturas no tienen que ser personajes o animales. Pueden ser conceptos, 
+ideas, objetos, etc. 
+
+* Tus criaturas van a interactuar con elementos del ecosistema como COMIDA, 
+  depredadores, plantas, etc.
+* Simula fuerzas de ATRACCIÓN y REPULSIÓN entre tus criaturas y el mundo en el que viven.
+* Vas a buscar ``3 tipos de fuerzas`` y las vas a ``MODELAR`` para 
+  incorporarlas en la simulación, pero esas fuerzas deberán responder a una 
+  ``NARRATIVA``, tu la defines, es tu ecosistema.
+
+  .. warning:: TENEMOS UN NUEVO REQUISITO
+
+      La narrativa. Tu la defines, no tiene que ser una historia, la narrativa 
+      es la razón de ser de tu simulación. ¿Por qué tus criaturas se mueven 
+      de esa manera? ¿Por qué interactúan con el mundo de esa manera?
+
+* Incluye en tu simulación interacción de las criaturas con líquidos donde 
+  experimenten fuerzas de resistencia.
+* Incluye una extraña colonia de criaturas que se comporten según las ideas 
+  de un n-Body problem.
+* Debes adicionar interactividad a tu aplicación. Puede ser mediante teclado, 
+  mouse, música, el micrófono, video, sensor o cualquier otro dispositivo 
+  de entrada.
+
