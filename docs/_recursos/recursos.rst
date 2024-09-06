@@ -177,6 +177,8 @@ Artistas, diseñadores, studios
   `Web site <https://www.sosolimited.com/>`__.
 * Artista Espen Kluge. Obra: `alternatives <https://alternatives.art/>`__. 
   Aplicación de vectores. `Web site <https://www.espen.xyz/alternatives-100-generative-portraits>`__.
+* Chris Barber. `Web site <https://www.codergb.art/>`__. `Instgram <https://www.instagram.com/code_rgb/>`__.
+* Tyler Hobbs. `Web site <https://www.tylerxhobbs.com/>`__.
 
 Books
 --------
