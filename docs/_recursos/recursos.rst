@@ -115,6 +115,8 @@ WebXR
   `Youtube playlist <https://youtube.com/playlist?list=PLFky-gauhF45UADAbdYMla_Gl4uz9O-Lh&si=EXMudEXeimJvVAPo>`__.
 * Rendering immersive web experiences with Three.JS and WebXR. `Web site <https://medium.com/@darktears/https-medium-com-darktears-rendering-immersive-web-experiences-with-three-js-and-webxr-8de7e06982d9>`__.
 * Spatial Fusion. Mixed rality experience. https://spatialfusion.io/
+* Apple WWDC 2024 session on WebXR. `Web site <https://developer.apple.com/videos/play/wwdc2024/10066/>`__.
+* AWE Nite Mexico 2024 - Presentación de WebXR y Wonderland Engine. `Youtube video <https://youtu.be/8ict9uMtGGc?si=j2cNFgfx5sLactF0>`__.
 
 Tools
 -------
