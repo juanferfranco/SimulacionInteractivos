@@ -51,7 +51,7 @@ Actividad 4
 *************
 
 Realiza un experimento para profundizar en el concepto de movimiento armónico simple propuesto en 
-el ejercicio 3.6 del libro de texto.
+el ejemplo 3.6 del libro de texto.
 
 En tu bitácora:
 
