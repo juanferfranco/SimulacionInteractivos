@@ -70,8 +70,8 @@ WebGPU
 * WebGPU Fluid Simulation. `Web page <https://kishimisu.github.io/WebGPU-Fluid-Simulation/>`__. 
 * WebGPU Fundamentals. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
 * WebGPU Compute Shader Basics. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__. 
-* taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>__`.
-
+* Taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>__`.
+* Taichi.js example on cables.gl. `Web page <https://cables.gl/p/eux4Vb>`__.
 
 Web ML
 ----------------
