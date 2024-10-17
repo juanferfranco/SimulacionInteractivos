@@ -628,6 +628,13 @@ OpenGL
 
 * Learn opengl. `Web site <https://learnopengl.com/>`__.
 
+Web topics 
+------------
+
+* Implementing React From Scratch. `Web blog <https://www.rob.directory/blog/react-from-scratch>`__.
+
+
+
 Ejemplos
 ------------
 
