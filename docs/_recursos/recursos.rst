@@ -631,9 +631,8 @@ OpenGL
 Web topics 
 ------------
 
-* Implementing React From Scratch. `Web blog <https://www.rob.directory/blog/react-from-scratch>`__.
-
-
+* Implementing React From Scratch. `Web site <https://www.rob.directory/blog/react-from-scratch>`__.
+* Plain Vanilla Components. `Web site <https://plainvanillaweb.com/pages/components.html>`__.
 
 Ejemplos
 ------------
