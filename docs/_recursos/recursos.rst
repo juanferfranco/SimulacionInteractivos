@@ -640,6 +640,14 @@ Hardware
 * What is the Colmi R02? It's a cheap (as in $20) "smart ring" / fitness wearable. 
   `Web site <https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html#what-is-the-colmi-r02>`__. 
 
+Creative algorithms 
+--------------------
+
+Just algorithms, but with a creative twist.
+
+* Evolving JavaScript: Cultivating Genetic Algorithms for Creative Coding by Kevin Maes. 
+  `Youtube video <https://youtu.be/OBI87TdFXwc?si=s1BTMOXJkjlTApsx>`__.
+
 
 Ejemplos
 ------------
