@@ -142,6 +142,7 @@ Cursos
 * JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
 * Design for Developers. `Web site <https://www.enhanceui.com/>`__.
 * Introduction to Cables.gl and Javascript coding. `Youtube playlist <https://youtube.com/playlist?list=PLigMhZPczouVkDLB3Ji66M3K0frprOXW5&si=TVIKrB0mJbLBAF32>`__. 
+* Lusion Labs. `Web site <https://labs.lusion.co/about>`__.
 
 Artistas, diseñadores, studios
 -------------------------------
