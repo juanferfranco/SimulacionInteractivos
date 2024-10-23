@@ -247,6 +247,8 @@ Sitios
 * `Generative Design in Branding <https://www.patrik-huebner.com/how-to-use-generative-design-in-branding/>`__.
 * `Generative Design Method <https://www.patrik-huebner.com/method/>`__.
 * `handwrytten <https://www.handwrytten.com/>`__. 
+* CineShader is a real-time 3D shader visualiser. `Web site <https://cineshader.com/>`__.
+
 
 Videos
 --------
