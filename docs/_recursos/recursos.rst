@@ -647,7 +647,8 @@ Just algorithms, but with a creative twist.
 
 * Evolving JavaScript: Cultivating Genetic Algorithms for Creative Coding by Kevin Maes. 
   `Youtube video <https://youtu.be/OBI87TdFXwc?si=s1BTMOXJkjlTApsx>`__.
-
+* That Creative Code Page. An illustrated catalog of useful creative coding 
+  algorithms & techniques. `Notion site <https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b>`__.
 
 Ejemplos
 ------------
