@@ -32,9 +32,6 @@ Generación procedural
 * Interactive Procedural Street Modeling. 
   `Web site <https://www.sci.utah.edu/~chengu/street_sig08/street_project.htm>`__.
 
-
-
-
 Rendering
 -------------
 
@@ -72,6 +69,8 @@ WebGPU
 * WebGPU Compute Shader Basics. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__. 
 * Taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>__`.
 * Taichi.js example on cables.gl. `Web page <https://cables.gl/p/eux4Vb>`__.
+* The best of WebGPU each month according to WebGPUExperts. `Web site <https://www.webgpuexperts.com/>`__.
+* Blob by WebGPU Expertes. `Web page <https://www.webgpuexperts.com/blobs>`__.
 
 Web ML
 ----------------
