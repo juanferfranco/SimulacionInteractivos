@@ -144,6 +144,9 @@ Cursos
 * Introduction to Cables.gl and Javascript coding. `Youtube playlist <https://youtube.com/playlist?list=PLigMhZPczouVkDLB3Ji66M3K0frprOXW5&si=TVIKrB0mJbLBAF32>`__. 
 * Lusion Labs. `Web site <https://labs.lusion.co/about>`__.
 * Utsubo Creative Studio in Japan. `Web site <https://www.utsubo.com/>`__.
+* Yining Shi is a creative technologist, researcher and software developer who is interested in 
+  building tools to craft a better learning experience for people. She is passionate about 
+  machine learning, creative coding, data visualization. `Web site <https://1023.io/about>`__.
 
 Artistas, diseñadores, studios
 -------------------------------
