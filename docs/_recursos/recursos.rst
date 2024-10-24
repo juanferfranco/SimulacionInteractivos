@@ -94,6 +94,7 @@ Web ML
   `Youtube video <https://youtu.be/zeFxny7KSlY?si=1yBf8phz9ASoUL_X>`__.
 * Machine Learning for the Web class at ITP, NYU. `Github repo <https://github.com/yining1023/machine-learning-for-the-web>`__.
 * Machine Learning for the Web. `Web site <https://itp.nyu.edu/itp/machine-learning-for-the-web/>`__.
+* Introduction to Machine Learning for the Arts. `Github page <https://github.com/ml5js/Intro-ML-Arts-IMA-F24>`__.
 
 WebXR
 ----------------
