@@ -72,6 +72,8 @@ WebGPU
 * Taichi.js example on cables.gl. `Web page <https://cables.gl/p/eux4Vb>`__.
 * The best of WebGPU each month according to WebGPUExperts. `Web site <https://www.webgpuexperts.com/>`__.
 * Blob by WebGPU Expertes. `Web page <https://www.webgpuexperts.com/blobs>`__.
+* p5.js Coding Tutorial | Interactive Bridge with Bouncing Balls (matter.js + ml5.js).
+  Patt Vira. `YouTube video <https://youtu.be/K7b5MEhPCuo?si=uR0uQSCqEhYhZ-KJ>`__.
 
 Web ML
 ----------------
