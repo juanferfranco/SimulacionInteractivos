@@ -538,7 +538,7 @@ Unity
 * Level_up_your_code_with_Game_Programming_Pattern. `Ebook de Unity <https://github.com/juanferfranco/privateBooks/blob/main/Level_up_your_code_with_Game_Programming_Pattern.pdf>`__.
 * Game Programming Patterns Tutorials. `Youtube playlist <https://youtube.com/playlist?list=PLX2vGYjWbI0TmDVbWNA56NbKKUgyUAQ9i&si=Pii036YQwnc_tk7H>`__.
 * New Web platfrom support in Unity 6. `Web page <https://unity.com/solutions/web>`__.
-
+* Unity profiling for web dev. `Web page <https://unity.com/how-to/profile-optimize-web-build>`__.
 
 Web libraries 
 ---------------
