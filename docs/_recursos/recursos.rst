@@ -662,6 +662,12 @@ Just algorithms, but with a creative twist.
 * That Creative Code Page. An illustrated catalog of useful creative coding 
   algorithms & techniques. `Notion site <https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b>`__.
 
+Projection Mapping
+--------------------
+
+* Real time projection mapping. `Web page <https://www.webgpuexperts.com/exploring-projection-mapping-webgpu>`__.
+
+
 Ejemplos
 ------------
 
