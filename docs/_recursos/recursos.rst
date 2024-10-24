@@ -31,6 +31,7 @@ Generación procedural
 * Procedural modeling of cities. `Web site <https://phiresky.github.io/procedural-cities/>`__.
 * Interactive Procedural Street Modeling. 
   `Web site <https://www.sci.utah.edu/~chengu/street_sig08/street_project.htm>`__.
+* Demo WebGPU by Utsubo Japan. `Web page <https://2024.utsubo.com/>`__.
 
 Rendering
 -------------
@@ -95,6 +96,7 @@ Web ML
 * Machine Learning for the Web class at ITP, NYU. `Github repo <https://github.com/yining1023/machine-learning-for-the-web>`__.
 * Machine Learning for the Web. `Web site <https://itp.nyu.edu/itp/machine-learning-for-the-web/>`__.
 * Introduction to Machine Learning for the Arts. `Github page <https://github.com/ml5js/Intro-ML-Arts-IMA-F24>`__.
+* Google Machine Learning Crash Course. `Web page <https://developers.google.com/machine-learning/crash-course/>`__.
 
 WebXR
 ----------------
