@@ -669,6 +669,11 @@ Just algorithms, but with a creative twist.
   algorithms & techniques. `Notion site <https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b>`__.
 * p5.js Coding Tutorial | Differential Line Growth. 
   `Youtube video <https://youtu.be/1viK2qKuP-Y?si=IPn8ARXl4TG-m5w0>`__.
+* p5.js Coding Tutorial | Flocking Simulation with Quadtree. 
+  `Youtube video <https://youtu.be/AMugNCfP1NA?si=cPuKoGIBhxBtNKFb>`__.
+* p5.js Coding Tutorial | Quadtree 🌴 (how not to crash your program w +1,000 colliding particles!).
+  `Youtube video <https://youtu.be/7pxyIC_ZEwA?si=3woyqCHrHncH92M2>`__.
+
 
 
 Projection Mapping
