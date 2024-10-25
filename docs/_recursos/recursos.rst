@@ -124,6 +124,8 @@ WebXR
 * Spatial Fusion. Mixed rality experience. https://spatialfusion.io/
 * Apple WWDC 2024 session on WebXR. `Web site <https://developer.apple.com/videos/play/wwdc2024/10066/>`__.
 * AWE Nite Mexico 2024 - Presentación de WebXR y Wonderland Engine. `Youtube video <https://youtu.be/8ict9uMtGGc?si=j2cNFgfx5sLactF0>`__.
+* Embracing WebGPU and WebXR With Three.js – Mr.doob, JSNation 2024. 
+  `Youtube video <https://youtu.be/7we9mqIOKyw?si=7LEKwiUqp0avCs67>`__.
 
 Tools
 -------
