@@ -667,6 +667,9 @@ Just algorithms, but with a creative twist.
   `Youtube video <https://youtu.be/OBI87TdFXwc?si=s1BTMOXJkjlTApsx>`__.
 * That Creative Code Page. An illustrated catalog of useful creative coding 
   algorithms & techniques. `Notion site <https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b>`__.
+* p5.js Coding Tutorial | Differential Line Growth. 
+  `Youtube video <https://youtu.be/1viK2qKuP-Y?si=IPn8ARXl4TG-m5w0>`__.
+
 
 Projection Mapping
 --------------------
