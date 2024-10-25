@@ -196,6 +196,8 @@ Artistas, diseñadores, studios
 * Chris Barber. `Web site <https://www.codergb.art/>`__. `Instgram <https://www.instagram.com/code_rgb/>`__.
 * Tyler Hobbs. `Web site <https://www.tylerxhobbs.com/>`__.
 * Otto Mata. `Web site <https://ottomata.com/>`__.
+* Nervous System blog. explorations in generative design and natural phenomena. 
+  `Web page <https://n-e-r-v-o-u-s.com/blog/>`__.
 
 Books
 --------
