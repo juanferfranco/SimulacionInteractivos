@@ -74,7 +74,7 @@ WebGPU
   Patt Vira. `YouTube video <https://youtu.be/K7b5MEhPCuo?si=uR0uQSCqEhYhZ-KJ>`__.
 * WebGPU — All of the cores, none of the canvas. Surma. `Web page <https://surma.dev/things/webgpu/>`__.
 * WebGPU Fundamentals. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
-
+* Learn WebGPU for native graphics in C++. `Web page <https://eliemichel.github.io/LearnWebGPU/index.html>`__.
 
 Web ML
 ----------------
