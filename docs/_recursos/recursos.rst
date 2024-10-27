@@ -58,7 +58,6 @@ WebGPU
 * `Unlock the Potential of AI and Immersive Web Applications with WebGPU <https://www.intel.com/content/www/us/en/developer/articles/technical/unlock-potential-ai-immersive-web-apps-with-webgpu.html>`__.  
 * `WebGPU :: Javascript at the speed of Light <https://youtu.be/oAwlk0j5RUM?si=0Wv9EaQGjGRNSn8Z>`__.
 * `WebGPU from WebGL <https://webgpufundamentals.org/webgpu/lessons/webgpu-from-webgl.html>`__.
-* `WebGPU Fundamentals <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
 * `WebGPU Compute Shader Basics <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__.
 * `WebGPU — All of the cores, none of the canvas <https://surma.dev/things/webgpu/>`__.
 * `Get started with GPU Compute on the web <https://developer.chrome.com/docs/capabilities/web-apis/gpu-compute>`__.
@@ -66,7 +65,6 @@ WebGPU
 * What WebGPU Means to XR and Metaverse by Andrey Ivashentsev. `Youtube video <https://youtu.be/5DgkmgH8zJQ?si=85q-YBk-SdnvVo-p>`__.
 * Generative Coding - The Nature of Code Ported to Three.js. `Web page <https://quaintitative.com/noc_port_threejs/>`__.
 * WebGPU Fluid Simulation. `Web page <https://kishimisu.github.io/WebGPU-Fluid-Simulation/>`__. 
-* WebGPU Fundamentals. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
 * WebGPU Compute Shader Basics. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__. 
 * Taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>__`.
 * Taichi.js example on cables.gl. `Web page <https://cables.gl/p/eux4Vb>`__.
@@ -74,6 +72,9 @@ WebGPU
 * Blob by WebGPU Expertes. `Web page <https://www.webgpuexperts.com/blobs>`__.
 * p5.js Coding Tutorial | Interactive Bridge with Bouncing Balls (matter.js + ml5.js).
   Patt Vira. `YouTube video <https://youtu.be/K7b5MEhPCuo?si=uR0uQSCqEhYhZ-KJ>`__.
+* WebGPU — All of the cores, none of the canvas. Surma. `Web page <https://surma.dev/things/webgpu/>`__.
+* WebGPU Fundamentals. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html>`__.
+
 
 Web ML
 ----------------
