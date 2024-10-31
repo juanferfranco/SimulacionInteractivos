@@ -35,6 +35,7 @@ Generación procedural
 * WebGPU is Not Just about the Web. `Youtube video <https://youtu.be/qHrx41aOTUQ?si=3Pm6YZfWfNP4ZoMT>`__.
 * gpu.cpp is a lightweight library that makes portable GPU compute with C++ simple. 
   `Github repo <https://github.com/AnswerDotAI/gpu.cpp>`__.
+* Lecture 27: gpu.cpp - Portable GPU compute using WebGPU. `Youtube video <https://youtu.be/Ll5Sr1L5LvA?si=GUPtjpQCB255u0Pc>`__. 
 
 Rendering
 -------------
@@ -69,7 +70,7 @@ WebGPU
 * Generative Coding - The Nature of Code Ported to Three.js. `Web page <https://quaintitative.com/noc_port_threejs/>`__.
 * WebGPU Fluid Simulation. `Web page <https://kishimisu.github.io/WebGPU-Fluid-Simulation/>`__. 
 * WebGPU Compute Shader Basics. `Web page <https://webgpufundamentals.org/webgpu/lessons/webgpu-compute-shaders.html>`__. 
-* Taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>__`.
+* Taichi.js: Painless WebGPU Programming. `Web page <https://taichi-js.com/docs/articles/painless-webgpu-programming>`__.
 * Taichi.js example on cables.gl. `Web page <https://cables.gl/p/eux4Vb>`__.
 * The best of WebGPU each month according to WebGPUExperts. `Web site <https://www.webgpuexperts.com/>`__.
 * Blob by WebGPU Expertes. `Web page <https://www.webgpuexperts.com/blobs>`__.
