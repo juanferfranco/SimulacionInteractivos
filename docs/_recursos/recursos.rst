@@ -32,6 +32,9 @@ Generación procedural
 * Interactive Procedural Street Modeling. 
   `Web site <https://www.sci.utah.edu/~chengu/street_sig08/street_project.htm>`__.
 * Demo WebGPU by Utsubo Japan. `Web page <https://2024.utsubo.com/>`__.
+* WebGPU is Not Just about the Web. `Youtube video <https://youtu.be/qHrx41aOTUQ?si=3Pm6YZfWfNP4ZoMT>`__.
+* gpu.cpp is a lightweight library that makes portable GPU compute with C++ simple. 
+  `Github repo <https://github.com/AnswerDotAI/gpu.cpp>`__.
 
 Rendering
 -------------
