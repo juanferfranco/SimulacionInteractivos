@@ -103,6 +103,10 @@ Web ML
 * Machine Learning for the Web. `Web site <https://itp.nyu.edu/itp/machine-learning-for-the-web/>`__.
 * Introduction to Machine Learning for the Arts. `Github page <https://github.com/ml5js/Intro-ML-Arts-IMA-F24>`__.
 * Google Machine Learning Crash Course. `Web page <https://developers.google.com/machine-learning/crash-course/>`__.
+* Neural networks. 3Blue1Brown Course. `Youtube playlist <https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=gc5ArcWGvr0CEEQb>`__.
+* Neural Networks. The coding train tutorial. `Web site <https://thecodingtrain.com/tracks/neural-networks>`__.
+* A Beginner's Guide to Machine Learning in JavaScript with ml5.js. 
+  `Web site <https://thecodingtrain.com/tracks/ml5js-beginners-guide>`__.
 
 WebXR
 ----------------
