@@ -213,6 +213,12 @@ Artistas, diseñadores, studios
   `Web page <https://n-e-r-v-o-u-s.com/blog/>`__.
 * My name is Tezumie, and I'm an artist based in the United States. I specialize in generative art, 
   illustration, and pixel art. `Web site <https://256art.com/artist/tezumie>`__.
+* Jason Dartford. Generative / Digital Artist. Unhealthily obsessed with geometry.
+  `Web site <https://www.jasondartford.com/>`__.
+* 256art. The only fully in-chain and open generative art platform. 
+  `Web site <https://256art.com/>`__.
+* Art Blocks is a digital platform where generative artists publish unique 
+  artworks using creative code. `Web site <https://www.artblocks.io/>`__.
 
 Books
 --------
