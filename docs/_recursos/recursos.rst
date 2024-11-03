@@ -37,7 +37,8 @@ Generación procedural
   `Github repo <https://github.com/AnswerDotAI/gpu.cpp>`__.
 * The WebGPU Samples are a set of samples and demos demonstrating the use of the WebGPU API.
   `Github repo <https://github.com/webgpu/webgpu-samples>`__.
-
+* q5.js is a spiritual successor to the p5.js and Processing Java graphics libraries. 
+  `Web site <https://q5js.org/home/>`__.
 
 Rendering
 -------------
