@@ -35,6 +35,9 @@ Generación procedural
 * WebGPU is Not Just about the Web. `Youtube video <https://youtu.be/qHrx41aOTUQ?si=3Pm6YZfWfNP4ZoMT>`__.
 * gpu.cpp is a lightweight library that makes portable GPU compute with C++ simple. 
   `Github repo <https://github.com/AnswerDotAI/gpu.cpp>`__.
+* The WebGPU Samples are a set of samples and demos demonstrating the use of the WebGPU API.
+  `Github repo <https://github.com/webgpu/webgpu-samples>`__.
+
 
 Rendering
 -------------
