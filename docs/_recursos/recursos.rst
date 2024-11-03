@@ -39,6 +39,7 @@ Generación procedural
   `Github repo <https://github.com/webgpu/webgpu-samples>`__.
 * q5.js is a spiritual successor to the p5.js and Processing Java graphics libraries. 
   `Web site <https://q5js.org/home/>`__.
+* 3Angle. WebGPU tutorials. `Youtube channel <https://www.youtube.com/@3Angle_/playlists>`__. 
 
 Rendering
 -------------
