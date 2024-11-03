@@ -157,7 +157,7 @@ Cursos
 * `Get started making music <https://learningmusic.ableton.com/>`__.
 * 3D Computer Graphics Programming. `Course <https://pikuma.com/courses/learn-3d-computer-graphics-programming>`__.
 * p5.js shaders. `Web site <https://itp-xstory.github.io/p5js-shaders/#/>`__.
-* Chris courses. `Web site <https://chriscourses.com/courses>`__.
+* Chris courses game dev with JavaScript. `Web site <https://chriscourses.com/courses>`__.
 * HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro. `YouTube playlist <https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&si=OdLxkmhE_2jUTr8g>`__.
 * JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
 * Design for Developers. `Web site <https://www.enhanceui.com/>`__.
@@ -219,6 +219,8 @@ Artistas, diseñadores, studios
   `Web site <https://256art.com/>`__.
 * Art Blocks is a digital platform where generative artists publish unique 
   artworks using creative code. `Web site <https://www.artblocks.io/>`__.
+* Etienne Jacob. Making gifs with code. `Web site <https://bleuje.com/>`__.
+
 
 Books
 --------
@@ -702,6 +704,13 @@ Projection Mapping
 
 * Real time projection mapping. `Web page <https://www.webgpuexperts.com/exploring-projection-mapping-webgpu>`__.
 
+Coding Techniques
+--------------------
+
+* Javascript patterns. `Web site <https://www.patterns.dev/vanilla/factory-pattern>`__.
+* JavaScript ES6 - How To Use p5js in a Module. `Youtube video <https://youtu.be/P0bkwncSJag?si=wkv5jW5pzHg-uMhu>`__.
+* JavaScript Promises. `YouTube playlist <https://youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx&si=Q3RwRPCntmANY6qE>`__.
+* 
 
 Ejemplos
 ------------
