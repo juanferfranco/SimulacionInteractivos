@@ -35,6 +35,11 @@ Generación procedural
 * WebGPU is Not Just about the Web. `Youtube video <https://youtu.be/qHrx41aOTUQ?si=3Pm6YZfWfNP4ZoMT>`__.
 * gpu.cpp is a lightweight library that makes portable GPU compute with C++ simple. 
   `Github repo <https://github.com/AnswerDotAI/gpu.cpp>`__.
+* The WebGPU Samples are a set of samples and demos demonstrating the use of the WebGPU API.
+  `Github repo <https://github.com/webgpu/webgpu-samples>`__.
+* q5.js is a spiritual successor to the p5.js and Processing Java graphics libraries. 
+  `Web site <https://q5js.org/home/>`__.
+* 3Angle. WebGPU tutorials. `Youtube channel <https://www.youtube.com/@3Angle_/playlists>`__. 
 * Lecture 27: gpu.cpp - Portable GPU compute using WebGPU. `Youtube video <https://youtu.be/Ll5Sr1L5LvA?si=GUPtjpQCB255u0Pc>`__. 
 
 Rendering
@@ -104,6 +109,10 @@ Web ML
 * Machine Learning for the Web. `Web site <https://itp.nyu.edu/itp/machine-learning-for-the-web/>`__.
 * Introduction to Machine Learning for the Arts. `Github page <https://github.com/ml5js/Intro-ML-Arts-IMA-F24>`__.
 * Google Machine Learning Crash Course. `Web page <https://developers.google.com/machine-learning/crash-course/>`__.
+* Neural networks. 3Blue1Brown Course. `Youtube playlist <https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=gc5ArcWGvr0CEEQb>`__.
+* Neural Networks. The coding train tutorial. `Web site <https://thecodingtrain.com/tracks/neural-networks>`__.
+* A Beginner's Guide to Machine Learning in JavaScript with ml5.js. 
+  `Web site <https://thecodingtrain.com/tracks/ml5js-beginners-guide>`__.
 
 WebXR
 ----------------
@@ -149,7 +158,7 @@ Cursos
 * `Get started making music <https://learningmusic.ableton.com/>`__.
 * 3D Computer Graphics Programming. `Course <https://pikuma.com/courses/learn-3d-computer-graphics-programming>`__.
 * p5.js shaders. `Web site <https://itp-xstory.github.io/p5js-shaders/#/>`__.
-* Chris courses. `Web site <https://chriscourses.com/courses>`__.
+* Chris courses game dev with JavaScript. `Web site <https://chriscourses.com/courses>`__.
 * HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro. `YouTube playlist <https://youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&si=OdLxkmhE_2jUTr8g>`__.
 * JavaScript Audio CRASH COURSE For Beginners. `YouTube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=ybWqYuXN5Z_hrVx7>`__.
 * Design for Developers. `Web site <https://www.enhanceui.com/>`__.
@@ -203,6 +212,16 @@ Artistas, diseñadores, studios
 * Otto Mata. `Web site <https://ottomata.com/>`__.
 * Nervous System blog. explorations in generative design and natural phenomena. 
   `Web page <https://n-e-r-v-o-u-s.com/blog/>`__.
+* My name is Tezumie, and I'm an artist based in the United States. I specialize in generative art, 
+  illustration, and pixel art. `Web site <https://256art.com/artist/tezumie>`__.
+* Jason Dartford. Generative / Digital Artist. Unhealthily obsessed with geometry.
+  `Web site <https://www.jasondartford.com/>`__.
+* 256art. The only fully in-chain and open generative art platform. 
+  `Web site <https://256art.com/>`__.
+* Art Blocks is a digital platform where generative artists publish unique 
+  artworks using creative code. `Web site <https://www.artblocks.io/>`__.
+* Etienne Jacob. Making gifs with code. `Web site <https://bleuje.com/>`__.
+
 
 Books
 --------
@@ -686,6 +705,13 @@ Projection Mapping
 
 * Real time projection mapping. `Web page <https://www.webgpuexperts.com/exploring-projection-mapping-webgpu>`__.
 
+Coding Techniques
+--------------------
+
+* Javascript patterns. `Web site <https://www.patterns.dev/vanilla/factory-pattern>`__.
+* JavaScript ES6 - How To Use p5js in a Module. `Youtube video <https://youtu.be/P0bkwncSJag?si=wkv5jW5pzHg-uMhu>`__.
+* JavaScript Promises. `YouTube playlist <https://youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx&si=Q3RwRPCntmANY6qE>`__.
+* 
 
 Ejemplos
 ------------
