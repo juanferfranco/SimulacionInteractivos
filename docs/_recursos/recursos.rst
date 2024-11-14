@@ -639,7 +639,8 @@ Generative Art
 ------------------
 
 * Algorithmic Art as a subset of Generative Art. `Website <https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art>`__.
-
+* Generative Art for Beginners. By Franks laboratory. 
+  `Youtube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_tN_lGjsx8uK85k-xZc4yrl&si=Z8KGbTsLrGE7A06e>`__.
 
 Shading languages
 --------------------
@@ -714,7 +715,8 @@ Coding Techniques
 * Javascript patterns. `Web site <https://www.patterns.dev/vanilla/factory-pattern>`__.
 * JavaScript ES6 - How To Use p5js in a Module. `Youtube video <https://youtu.be/P0bkwncSJag?si=wkv5jW5pzHg-uMhu>`__.
 * JavaScript Promises. `YouTube playlist <https://youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx&si=Q3RwRPCntmANY6qE>`__.
-* 
+* HTML Canvas DEEP DIVE. Franks laboratory. 
+  `YouTube video <https://youtu.be/uCH1ta5OUHw?si=zOEO-fcMIbjAQ8Ih>`__. 
 
 Ejemplos
 ------------
