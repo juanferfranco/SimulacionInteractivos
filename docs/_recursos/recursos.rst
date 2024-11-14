@@ -399,6 +399,8 @@ Audio
 * `Audio Signal Processing for Machine Learning <https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=ysMPWk94ejzKZdDc>`__.
 * `Real-time Audio Analysis Using the Unity API <https://medium.com/@jesse_87798/6e9595823ce4>`__.
 * `Audio reactive cables.gl <https://youtube.com/playlist?list=PLYimpE2xWgBvidgEPR6sFlpbqYRo6yjVJ&si=M1lxPhevnF1YUupT>`__.
+* JavaScript Audio Effects. by Franks laboratory. 
+  `Youtube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_sHeIIv7BMliQF5zB7BliJE&si=9TUOkpeqEKKwIidL>`__.
 
 
 StoryTelling 
