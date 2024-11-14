@@ -113,6 +113,9 @@ Web ML
 * Neural Networks. The coding train tutorial. `Web site <https://thecodingtrain.com/tracks/neural-networks>`__.
 * A Beginner's Guide to Machine Learning in JavaScript with ml5.js. 
   `Web site <https://thecodingtrain.com/tracks/ml5js-beginners-guide>`__.
+* Machine Learning Course. by Radu Mariescu-Istodor. 
+  `Youtube playlist <https://youtube.com/playlist?list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4&si=W0zTy5EjXsfatRot>`__.
+
 
 WebXR
 ----------------
