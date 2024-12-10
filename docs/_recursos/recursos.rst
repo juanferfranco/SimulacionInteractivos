@@ -733,6 +733,11 @@ Generative Design
 -------------------
 
 * Design Lecture Series - Patrik Hübner. `YouTube video <https://youtu.be/BZVQYJJDnSU?si=kDYBS6ILAaGWD8Si>`__.
+* GENERATIVE DESIGN, INTRO & Patrik Hübner. `YouTube video <https://youtu.be/-ntgKfXFbSk?si=QgG6KOrlMbYGa5Bi>`__.
+* Un proyecto hecho con el concepto de generative design. `Web site <http://www.brute-wine.com/>`__.
+* La simulación del proyecto Brute. `Web site <https://www.brute-wine.com/?mode=landor>`__.
+* crazy cool developers. `Web site <https://crazycooldevelopers.github.io/>`__.
+* Un proyecto hecho con el concepto de generative design. `Web site <https://www.wiki-footwear.com/>`__.
 
 
 Ejemplos
