@@ -171,6 +171,8 @@ Cursos
 * Yining Shi is a creative technologist, researcher and software developer who is interested in 
   building tools to craft a better learning experience for people. She is passionate about 
   machine learning, creative coding, data visualization. `Web site <https://1023.io/about>`__.
+* Painting with Plotters. `Web site <https://www.eyesofpanda.com/project/painting_with_plotters/>`__.
+
 
 Artistas, diseñadores, studios
 -------------------------------
@@ -726,6 +728,12 @@ Coding Techniques
 * JavaScript Promises. `YouTube playlist <https://youtube.com/playlist?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx&si=Q3RwRPCntmANY6qE>`__.
 * HTML Canvas DEEP DIVE. Franks laboratory. 
   `YouTube video <https://youtu.be/uCH1ta5OUHw?si=zOEO-fcMIbjAQ8Ih>`__. 
+
+Generative Design
+-------------------
+
+* Design Lecture Series - Patrik Hübner. `YouTube video <https://youtu.be/BZVQYJJDnSU?si=kDYBS6ILAaGWD8Si>`__.
+
 
 Ejemplos
 ------------
