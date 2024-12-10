@@ -644,6 +644,11 @@ Generative Art
 * Algorithmic Art as a subset of Generative Art. `Website <https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art>`__.
 * Generative Art for Beginners. By Franks laboratory. 
   `Youtube playlist <https://youtube.com/playlist?list=PLYElE_rzEw_tN_lGjsx8uK85k-xZc4yrl&si=Z8KGbTsLrGE7A06e>`__.
+* Generative Art Museum. `Web site <https://responsivedreams.com/>`__.
+* TCAM Generative Art Museum. `Web site <https://tgam.xyz/about>`__.
+* Mathematical Art Digital Exhibition (MADE) at Queens College. 
+  `Web site <https://www.qc.cuny.edu/academics/math/made-gallery/>`__. 
+
 
 Shading languages
 --------------------
@@ -704,7 +709,8 @@ Just algorithms, but with a creative twist.
   `Youtube video <https://youtu.be/AMugNCfP1NA?si=cPuKoGIBhxBtNKFb>`__.
 * p5.js Coding Tutorial | Quadtree 🌴 (how not to crash your program w +1,000 colliding particles!).
   `Youtube video <https://youtu.be/7pxyIC_ZEwA?si=3woyqCHrHncH92M2>`__.
-
+* Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation. 
+  `Web site <https://zzyzek.github.io/PunchOutModelSynthesisPaper/>`__.
 
 
 Projection Mapping
