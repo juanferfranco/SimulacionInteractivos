@@ -172,6 +172,7 @@ Cursos
   building tools to craft a better learning experience for people. She is passionate about 
   machine learning, creative coding, data visualization. `Web site <https://1023.io/about>`__.
 * Painting with Plotters. `Web site <https://www.eyesofpanda.com/project/painting_with_plotters/>`__.
+* Luna Maurer. `Web site <https://lunamaurer.com/>`__.
 
 
 Artistas, diseñadores, studios
@@ -639,6 +640,7 @@ Conferences
 ------------------
 
 * Conference on Artificial Life. `Web site <https://2024.alife.org/>`__.
+* ITERATIONS. `Web site <https://iterations.online/>`__.
 
 Generative Art
 ------------------
@@ -742,6 +744,7 @@ Generative Design
 * GENERATIVE DESIGN, Vera van de Seyp. `YouTube video <https://youtu.be/2K6nRgSJ8dI?si=M0Uq0BNzHkxC_CQ_>`__.
 * GENERATIVE DESIGN, Just van Rossum. `YouTube video <https://youtu.be/AEwSWhI_EXA?si=rkgpbQ1xG_MiKPv1>`__.
 * Just Van Rossum - Type, Code and Movement. `YouTube video <https://youtu.be/4h2G33SRpug?si=Y-pgbkaEkCfSdmhO>`__.
+* Creative Coding Utrecht. `Youtube channel <https://www.youtube.com/@CreativeCodingUtrecht/videos>`__.
 
 Ejemplos
 ------------
