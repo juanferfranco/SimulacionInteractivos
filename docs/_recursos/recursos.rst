@@ -641,6 +641,8 @@ Conferences
 
 * Conference on Artificial Life. `Web site <https://2024.alife.org/>`__.
 * ITERATIONS. `Web site <https://iterations.online/>`__.
+* Swiss Design Network Symposium. `Web site <https://researchday.ch/>`__.
+
 
 Generative Art
 ------------------
