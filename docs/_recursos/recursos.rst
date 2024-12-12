@@ -172,7 +172,7 @@ Cursos
   building tools to craft a better learning experience for people. She is passionate about 
   machine learning, creative coding, data visualization. `Web site <https://1023.io/about>`__.
 * Painting with Plotters. `Web site <https://www.eyesofpanda.com/project/painting_with_plotters/>`__.
-* Luna Maurer. `Web site <https://lunamaurer.com/>`__.
+
 
 
 Artistas, diseñadores, studios
@@ -227,7 +227,8 @@ Artistas, diseñadores, studios
 * Art Blocks is a digital platform where generative artists publish unique 
   artworks using creative code. `Web site <https://www.artblocks.io/>`__.
 * Etienne Jacob. Making gifs with code. `Web site <https://bleuje.com/>`__.
-
+* Luna Maurer. `Web site <https://lunamaurer.com/>`__.
+* Licia He. `Web site <https://www.eyesofpanda.com/>`__.
 
 Books
 --------
