@@ -738,7 +738,8 @@ Generative Design
 * La simulación del proyecto Brute. `Web site <https://www.brute-wine.com/?mode=landor>`__.
 * crazy cool developers. `Web site <https://crazycooldevelopers.github.io/>`__.
 * Un proyecto hecho con el concepto de generative design. `Web site <https://www.wiki-footwear.com/>`__.
-
+* GENERATIVE DESIGN, Tim Rodenbröker. `YouTube video <https://youtu.be/GWfCLKz78JU?si=zcSZZga9R43WYj6G>`__.
+* GENERATIVE DESIGN, Vera van de Seyp. `YouTube video <https://youtu.be/2K6nRgSJ8dI?si=M0Uq0BNzHkxC_CQ_>`__.
 
 Ejemplos
 ------------
