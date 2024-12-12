@@ -1013,3 +1013,15 @@ carefully designs the boundaries of its computational space and optionally defin
 While collectors are typically more interested in the algorithm's outcome than the algorithm itself, there's an 
 argument that the algorithm is the true artwork, as it embodies the artist's primary effort. 
 The generated outcomes are autonomously created, beyond the artist's direct control.
+
+Generative Design (ideas sueltas)
+************************************
+
+* Design is inherently embedded within the algorithm—essentially, the program itself is the design.  
+  (Just van Rossum).
+* Generative design—or the art of coding itself—is fundamentally about creating custom software. 
+  Sure, you can design using tools like Illustrator, Photoshop, or InDesign, but eventually, you’ll 
+  want to explore ideas that simply aren’t possible with those tools. That’s where this technology 
+  comes in, opening up a vast new world of possibilities for you to experiment and create.  
+  (Just van Rossum).
+
