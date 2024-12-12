@@ -741,6 +741,7 @@ Generative Design
 * GENERATIVE DESIGN, Tim Rodenbröker. `YouTube video <https://youtu.be/GWfCLKz78JU?si=zcSZZga9R43WYj6G>`__.
 * GENERATIVE DESIGN, Vera van de Seyp. `YouTube video <https://youtu.be/2K6nRgSJ8dI?si=M0Uq0BNzHkxC_CQ_>`__.
 * GENERATIVE DESIGN, Just van Rossum. `YouTube video <https://youtu.be/AEwSWhI_EXA?si=rkgpbQ1xG_MiKPv1>`__.
+* Just Van Rossum - Type, Code and Movement. `YouTube video <https://youtu.be/4h2G33SRpug?si=Y-pgbkaEkCfSdmhO>`__.
 
 Ejemplos
 ------------
