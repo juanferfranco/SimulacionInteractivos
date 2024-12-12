@@ -229,6 +229,7 @@ Artistas, diseñadores, studios
 * Etienne Jacob. Making gifs with code. `Web site <https://bleuje.com/>`__.
 * Luna Maurer. `Web site <https://lunamaurer.com/>`__.
 * Licia He. `Web site <https://www.eyesofpanda.com/>`__.
+* Graphic designer Hansje van Halem. `Web site <https://hansje.net/>`__.
 
 Books
 --------
