@@ -1025,3 +1025,24 @@ Generative Design (ideas sueltas)
   comes in, opening up a vast new world of possibilities for you to experiment and create.  
   (Just van Rossum).
 
+Interactive Code experiment
+*****************************
+
+.. raw:: html
+
+    <div id="p5-container" style="text-align: center; margin: 0 auto; max-width: 100%;">
+      <p>Ejemplo interactivo de p5.js:</p>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
+      <script>
+        function setup() {
+          let canvas = createCanvas(400, 400);
+          canvas.parent('p5-container'); // Forzar que el canvas esté dentro del contenedor
+        }
+
+        function draw() {
+          background(220);
+          ellipse(mouseX, mouseY, 50, 50);
+        }
+      </script>
+    </div>
+

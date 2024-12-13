@@ -11,3 +11,16 @@
     background-color: #14181e !important; /* Color de fondo oscuro */
 }
 
+#p5-container canvas {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#p5-container {
+    text-align: center;
+    padding: 10px;
+    background-color: #888484; /* Opcional, para resaltar */
+    border: 1px solid #ddd; /* Opcional, para separar visualmente */
+}
