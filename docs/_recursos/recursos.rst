@@ -727,6 +727,8 @@ Just algorithms, but with a creative twist.
 * ASimple Model of the Belousov-Zhabotinsky Reaction from First Principles. Alasdair Turner. 
   `Pdf <https://discovery.ucl.ac.uk/id/eprint/17241/1/17241.pdf>`__.
 * p5.js Coding Tutorial | NileRed Logo (BZ Reaction). `Youtube video <https://www.youtube.com/watch?v=CicXI-WBgQ4>`__.
+* Coding Challenge #17: Fractal Trees - Space Colonization. `YouTube video <https://youtu.be/kKT0v3qhIQY?si=-ZkiZ-1H5mmkMECW>`__.
+
 
 Projection Mapping
 --------------------
