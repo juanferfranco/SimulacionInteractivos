@@ -230,6 +230,8 @@ Artistas, diseñadores, studios
 * Luna Maurer. `Web site <https://lunamaurer.com/>`__.
 * Licia He. `Web site <https://www.eyesofpanda.com/>`__.
 * Graphic designer Hansje van Halem. `Web site <https://hansje.net/>`__.
+* Anna Carreras. `Web site <https://www.annacarreras.com/about/>`__.
+
 
 Books
 --------
@@ -749,6 +751,15 @@ Generative Design
 * GENERATIVE DESIGN, Just van Rossum. `YouTube video <https://youtu.be/AEwSWhI_EXA?si=rkgpbQ1xG_MiKPv1>`__.
 * Just Van Rossum - Type, Code and Movement. `YouTube video <https://youtu.be/4h2G33SRpug?si=Y-pgbkaEkCfSdmhO>`__.
 * Creative Coding Utrecht. `Youtube channel <https://www.youtube.com/@CreativeCodingUtrecht/videos>`__.
+
+Generative art
+----------------
+
+* Demystifying Generative Art. `Web site <https://www.lerandom.art/editorial/demystifying-generative-art>`__.
+* Demystifying Generative Aesthetics. `Web site <https://www.lerandom.art/editorial/demystifying-generative-aesthetics>`__.
+* Demystifying Generative Systems. `Web site <https://www.lerandom.art/editorial/demystifying-generative-systems>`__.
+* Demystifying Generative Autonomy. `Web site <https://www.lerandom.art/editorial/demystifying-generative-autonomy>`__.
+* Creative Coding. `Web site <https://github.com/CreativeCodeBerlin/creative-coding-minilist?tab=readme-ov-file>`__.  
 
 Ejemplos
 ------------
