@@ -721,7 +721,10 @@ Just algorithms, but with a creative twist.
   `Youtube video <https://youtu.be/7pxyIC_ZEwA?si=3woyqCHrHncH92M2>`__.
 * Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation. 
   `Web site <https://zzyzek.github.io/PunchOutModelSynthesisPaper/>`__.
-
+* Steganography. Hiding text into an image. `Web site <https://www.josvromans.art/writing/2024/10/steganography/>`__.
+* ASimple Model of the Belousov-Zhabotinsky Reaction from First Principles. Alasdair Turner. 
+  `Pdf <https://discovery.ucl.ac.uk/id/eprint/17241/1/17241.pdf>`__.
+* p5.js Coding Tutorial | NileRed Logo (BZ Reaction). `Youtube video <https://www.youtube.com/watch?v=CicXI-WBgQ4>`__.
 
 Projection Mapping
 --------------------
