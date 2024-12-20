@@ -760,6 +760,8 @@ Generative art
 * Demystifying Generative Systems. `Web site <https://www.lerandom.art/editorial/demystifying-generative-systems>`__.
 * Demystifying Generative Autonomy. `Web site <https://www.lerandom.art/editorial/demystifying-generative-autonomy>`__.
 * Creative Coding. `Web site <https://github.com/CreativeCodeBerlin/creative-coding-minilist?tab=readme-ov-file>`__.  
+* Drawing robots. `Web site <https://drawingbots.net/>`__.
+
 
 Ejemplos
 ------------
