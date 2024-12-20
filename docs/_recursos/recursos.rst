@@ -759,6 +759,7 @@ Generative Design
 * Just Van Rossum - Type, Code and Movement. `YouTube video <https://youtu.be/4h2G33SRpug?si=Y-pgbkaEkCfSdmhO>`__.
 * Creative Coding Utrecht. `Youtube channel <https://www.youtube.com/@CreativeCodingUtrecht/videos>`__.
 * Project plantfutures.io. `Web site <https://youtu.be/sBcrsF6ahm8?si=xXMm0xYVSqEDeFVE>`__.
+* Brand Design System: Importance, Implementation and Examples. `Web site <https://medium.com/theymakedesign/brand-design-system-fb0af09a6e46>`__.
 
 Generative art
 ----------------
