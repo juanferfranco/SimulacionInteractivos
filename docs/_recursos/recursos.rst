@@ -231,7 +231,9 @@ Artistas, diseñadores, studios
 * Licia He. `Web site <https://www.eyesofpanda.com/>`__.
 * Graphic designer Hansje van Halem. `Web site <https://hansje.net/>`__.
 * Anna Carreras. `Web site <https://www.annacarreras.com/about/>`__.
-
+* variable.io, a generative design and data visualisation studio. We are a digital studio based in 
+  London working globally with brands, research groups and organizations on new ways of experiencing 
+  data; from concept ideation and art direction, to prototyping and production. `Web site <https://variable.io/>`__.
 
 Books
 --------
