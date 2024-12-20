@@ -728,7 +728,7 @@ Just algorithms, but with a creative twist.
   `Pdf <https://discovery.ucl.ac.uk/id/eprint/17241/1/17241.pdf>`__.
 * p5.js Coding Tutorial | NileRed Logo (BZ Reaction). `Youtube video <https://www.youtube.com/watch?v=CicXI-WBgQ4>`__.
 * Coding Challenge #17: Fractal Trees - Space Colonization. `YouTube video <https://youtu.be/kKT0v3qhIQY?si=-ZkiZ-1H5mmkMECW>`__.
-
+* Conway polyhedron notation. `Web site <https://en.wikipedia.org/wiki/Conway_polyhedron_notation>`__.
 
 Projection Mapping
 --------------------
@@ -758,6 +758,7 @@ Generative Design
 * GENERATIVE DESIGN, Just van Rossum. `YouTube video <https://youtu.be/AEwSWhI_EXA?si=rkgpbQ1xG_MiKPv1>`__.
 * Just Van Rossum - Type, Code and Movement. `YouTube video <https://youtu.be/4h2G33SRpug?si=Y-pgbkaEkCfSdmhO>`__.
 * Creative Coding Utrecht. `Youtube channel <https://www.youtube.com/@CreativeCodingUtrecht/videos>`__.
+* Project plantfutures.io. `Web site <https://youtu.be/sBcrsF6ahm8?si=xXMm0xYVSqEDeFVE>`__.
 
 Generative art
 ----------------
