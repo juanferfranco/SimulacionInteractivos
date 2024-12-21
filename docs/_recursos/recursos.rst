@@ -234,6 +234,8 @@ Artistas, diseñadores, studios
 * variable.io, a generative design and data visualisation studio. We are a digital studio based in 
   London working globally with brands, research groups and organizations on new ways of experiencing 
   data; from concept ideation and art direction, to prototyping and production. `Web site <https://variable.io/>`__.
+* Marcin Ignac - a data artist and founder of studio Variable. `Web site <https://marcinignac.com/>`__.
+
 
 Books
 --------
@@ -688,6 +690,7 @@ Touch designer
 * StreamDiffusionTD 0.2.0 [ Installation + Setup ]. `Youtube tutorial <https://youtu.be/F2JSWAKex4k?si=ayFiWLqgrGHksRWG>`__.
 * Stream Difussion. `Github repo <https://github.com/cumulo-autumn/StreamDiffusion>`__.
 * StreamV2V. `Github repo <https://youtu.be/k-DmQNjXvxA?si=u7LXWd8xfU6ubHbs>`__.
+* Making Games in TouchDesigner? `Youtube video <https://youtu.be/5GKXyOgsR9U?si=5VztKdHDsIX7wBCq>`__.
 
 OpenGL
 ---------
@@ -760,6 +763,12 @@ Generative Design
 * Creative Coding Utrecht. `Youtube channel <https://www.youtube.com/@CreativeCodingUtrecht/videos>`__.
 * Project plantfutures.io. `Web site <https://youtu.be/sBcrsF6ahm8?si=xXMm0xYVSqEDeFVE>`__.
 * Brand Design System: Importance, Implementation and Examples. `Web site <https://medium.com/theymakedesign/brand-design-system-fb0af09a6e46>`__.
+* Hirsch & Mann is a London based agency with a mission to create bold digital and physical experiences for 
+  premium brands worldwide. We offer our clients the complete range of design & technology services, 
+  creating immediate memorable experiences. `Web site <https://www.hirschandmann.com/>`__.
+* PEX is a collection of JavaScript modules the combination of which becomes a powerful 3D graphics 
+  library for the desktop and the web. `Web site <https://pex.gl/>`__.
+
 
 Generative art
 ----------------
